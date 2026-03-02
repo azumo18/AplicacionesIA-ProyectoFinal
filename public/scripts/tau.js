@@ -1,15 +1,26 @@
 const pl = require("tau-prolog");
 require("tau-prolog/modules/promises.js")(pl);
 
-//probablemente las vamos a terminar leyendo de un archivo aparte
-const staticRules = `
-  ancestor(X, Y) :- parent(X, Y).
-  ancestor(X, Y) :- parent(X, Z), ancestor(Z, Y).
-`;
+const fs = require('fs');
+const path = require('path');
 
-const asyncTauQuery = async(dynamicRules, query) => {
+const getPrologFiles = (folderPath) => {
+  const files = fs.readdirSync(folderPath);
+  const plFiles = files.filter(file => path.extname(file) === '.pl');
+  return plFiles.map(file => path.join(folderPath, file));
+};
+
+const getPrologFilesContent = (prologFiles) => {
+  return prologFiles.map(file => fs.readFileSync(file, 'utf8'));
+};
+
+const asyncTauQuery = async(staticRulesFolderPath, dynamicRules, query) => {
     const session = pl.create();
-    await session.promiseConsult(staticRules);
+
+    const staticRulesFiles = getPrologFiles(staticRulesFolderPath);
+    const staticRules = getPrologFilesContent(staticRulesFiles);
+    for(const ruleSet of staticRules) await session.promiseConsult(ruleSet);
+    
     await session.promiseConsult(dynamicRules);
     await session.promiseQuery(query);
 

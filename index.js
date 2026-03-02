@@ -1,6 +1,7 @@
 // index.js
 const express = require('express');
 const { asyncTauQuery } = require('./public/scripts/tau')
+const path = require('path');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -18,7 +19,7 @@ app.get('/', (req, res) => {
 app.post('/query', async (req, res) => {
   const { dynamicRules, query } = req.body;
   try {
-    const response = await asyncTauQuery(dynamicRules, query);
+    const response = await asyncTauQuery(path.join(__dirname, 'prolog'), dynamicRules, query);
     res.json(response);
   } catch (err) {
     res.status(400).json({ error: err.message });
