@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(31, 31, 31);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+body * {
+    margin: 0;
+    padding: 0;
+}
+
+body > * {
+    flex: 1;
+}
+
+h2 {
+    text-align: center;
+}
+
+textarea {
+    min-height: 80px;
+}
+
+.row {
+    display: flex;
+    gap: 10px;
+}
+
+.row :first-child {
+    flex-basis: 100%;
+}

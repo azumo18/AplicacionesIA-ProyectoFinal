@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom ATS</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="scripts/testdata-loading.js"></script>
+    <script src="scripts/main.js"></script>
+</head>
+<body>
+    <h2>Tau</h2>
+    <p>Dynamic Rules:</p>
+    <textarea id="dynamicRulesContainer"></textarea>
+    <p>Query:</p>
+    <div class="row">
+        <input id="queryContainer" type="text"/>
+        <button id="postQueryButton">POST</button>
+    </div>
+    <p>Results:</p>
+    <textarea id="resultsContainer" disabled></textarea>
+    <hr>
+    <h2>Ollama</h2>
+    <p>Prompt:</p>
+    <div class="row">
+        <input id="promptContainer" type="text"/>
+        <button id="postPromptButton">POST</button>
+    </div>
+    <p>Results:</p>
+    <textarea id="resultsContainer2" disabled></textarea>
+</body>
+</html>
