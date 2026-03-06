@@ -160,7 +160,7 @@ const checkboxClick = (event) => {
 
     document.querySelector('#summaryContainer').value = selectedITCategories.tabs.map(tab => {
         return `${tab.title}\n${tab.categories.map(category => {
-            return ` • ${category.title}\n${category.elements.map(element => {
+            return `${category.title != '' ? ` • ${category.title}\n` : ''}${category.elements.map(element => {
                 return `     - ${formatConcept(element)}\n`
             }).join('')}`
         }).join('')}`
