@@ -1,0 +1,1273 @@
+{
+    "tabs": [
+        {
+            "title": "Programming Languages",
+            "categories": [
+                {
+                    "title": "JVM / C-family / Statically Typed",
+                    "elements": [
+                        {
+                            "name": "java",
+                            "aliases": []
+                        },
+                        {
+                            "name": "kotlin",
+                            "aliases": []
+                        },
+                        {
+                            "name": "scala",
+                            "aliases": []
+                        },
+                        {
+                            "name": "csharp",
+                            "aliases": ["c#", "c sharp"]
+                        },
+                        {
+                            "name": "cpp",
+                            "aliases": ["c++"]
+                        },
+                        {
+                            "name": "c",
+                            "aliases": []
+                        },
+                        {
+                            "name": "swift",
+                            "aliases": []
+                        },
+                        {
+                            "name": "go",
+                            "aliases": ["golang"]
+                        },
+                        {
+                            "name": "rust",
+                            "aliases": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Scripting / Dynamic",
+                    "elements": [
+                        {
+                            "name": "python",
+                            "aliases": []
+                        },
+                        {
+                            "name": "ruby",
+                            "aliases": []
+                        },
+                        {
+                            "name": "javascript",
+                            "aliases": ["js"],
+                            "preventAliasDisplay": true
+                        },
+                        {
+                            "name": "typescript",
+                            "aliases": ["ts"],
+                            "preventAliasDisplay": true
+                        },
+                        {
+                            "name": "php",
+                            "aliases": []
+                        },
+                        {
+                            "name": "perl",
+                            "aliases": []
+                        },
+                        {
+                            "name": "bash",
+                            "aliases": []
+                        },
+                        {
+                            "name": "powershell",
+                            "aliases": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Functional",
+                    "elements": [
+                        {
+                            "name": "haskell",
+                            "aliases": []
+                        },
+                        {
+                            "name": "elixir",
+                            "aliases": []
+                        },
+                        {
+                            "name": "erlang",
+                            "aliases": []
+                        },
+                        {
+                            "name": "fsharp",
+                            "aliases": ["f#", "f sharp"]
+                        },
+                        {
+                            "name": "clojure",
+                            "aliases": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Query / Data",
+                    "elements": [
+                        {
+                            "name": "sql",
+                            "aliases": []
+                        },
+                        {
+                            "name": "graphql",
+                            "aliases": []
+                        },
+                        {
+                            "name": "r_language",
+                            "aliases": ["r"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Programming Paradigms",
+            "categories": [
+                {
+                    "title": "",
+                    "elements": [
+                        {
+                            "name": "object_oriented_programming",
+                            "aliases": []
+                        },
+                        {
+                            "name": "functional_programming",
+                            "aliases": []
+                        },
+                        {
+                            "name": "procedural_programming",
+                            "aliases": []
+                        },
+                        {
+                            "name": "reactive_programming",
+                            "aliases": []
+                        },
+                        {
+                            "name": "event_driven_programming",
+                            "aliases": []
+                        },
+                        {
+                            "name": "declarative_programming",
+                            "aliases": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Frameworks & Frontend",
+            "categories": [
+                {
+                    "title": "Frontend Frameworks",
+                    "elements": [
+                        {
+                            "name": "react",
+                            "aliases": []
+                        },
+                        {
+                            "name": "angular",
+                            "aliases": []
+                        },
+                        {
+                            "name": "vue",
+                            "aliases": []
+                        },
+                        {
+                            "name": "svelte",
+                            "aliases": []
+                        },
+                        {
+                            "name": "nextjs",
+                            "aliases": ["next.js"]
+                        },
+                        {
+                            "name": "html_css",
+                            "aliases": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Backend Frameworks",
+                    "elements": [
+                        {
+                            "name": "spring_boot",
+                            "aliases": []
+                        },
+                        {
+                            "name": "dotnet_core",
+                            "aliases": []
+                        },
+                        {
+                            "name": "django",
+                            "aliases": []
+                        },
+                        {
+                            "name": "flask",
+                            "aliases": []
+                        },
+                        {
+                            "name": "fastapi",
+                            "aliases": []
+                        },
+                        {
+                            "name": "rails",
+                            "aliases": ["ruby on rails"]
+                        },
+                        {
+                            "name": "express",
+                            "aliases": []
+                        },
+                        {
+                            "name": "nestjs",
+                            "aliases": []
+                        },
+                        {
+                            "name": "laravel",
+                            "aliases": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mobile Development",
+            "categories": [
+                {
+                    "title": "",
+                    "elements": [
+                        {
+                            "name": "android_native",
+                            "aliases": []
+                        },
+                        {
+                            "name": "ios_native",
+                            "aliases": []
+                        },
+                        {
+                            "name": "react_native",
+                            "aliases": []
+                        },
+                        {
+                            "name": "flutter",
+                            "aliases": []
+                        },
+                        {
+                            "name": "xamarin",
+                            "aliases": []
+                        },
+                        {
+                            "name": "ionic",
+                            "aliases": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Databases",
+            "categories": [
+                {
+                    "title": "Relational",
+                    "elements": [
+                        {
+                            "name": "postgresql",
+                            "aliases": []
+                        },
+                        {
+                            "name": "mysql",
+                            "aliases": []
+                        },
+                        {
+                            "name": "mssql",
+                            "aliases": []
+                        },
+                        {
+                            "name": "oracle_db",
+                            "aliases": []
+                        },
+                        {
+                            "name": "sqlite",
+                            "aliases": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Document / NoSQL",
+                    "elements": [
+                        {
+                            "name": "mongodb",
+                            "aliases": []
+                        },
+                        {
+                            "name": "couchdb",
+                            "aliases": []
+                        },
+                        {
+                            "name": "firestore",
+                            "aliases": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Key-Value / Cache",
+                    "elements": [
+                        {
+                            "name": "redis",
+                            "aliases": []
+                        },
+                        {
+                            "name": "memcached",
+                            "aliases": []
+                        },
+                        {
+                            "name": "dynamodb",
+                            "aliases": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Column / Wide-Store",
+                    "elements": [
+                        {
+                            "name": "cassandra",
+                            "aliases": []
+                        },
+                        {
+                            "name": "hbase",
+                            "aliases": []
+                        },
+                        {
+                            "name": "bigquery",
+                            "aliases": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Graph",
+                    "elements": [
+                        {
+                            "name": "neo4j",
+                            "aliases": []
+                        },
+                        {
+                            "name": "amazon_neptune",
+                            "aliases": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Time-Series",
+                    "elements": [
+                        {
+                            "name": "influxdb",
+                            "aliases": []
+                        },
+                        {
+                            "name": "timescaledb",
+                            "aliases": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Search Engines",
+                    "elements": [
+                        {
+                            "name": "elasticsearch",
+                            "aliases": []
+                        },
+                        {
+                            "name": "opensearch",
+                            "aliases": []
+                        },
+                        {
+                            "name": "solr",
+                            "aliases": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Cloud Platforms",
+            "categories": [
+                {
+                    "title": "",
+                    "elements": [
+                        {
+                            "name": "aws",
+                            "aliases": []
+                        },
+                        {
+                            "name": "azure",
+                            "aliases": []
+                        },
+                        {
+                            "name": "google_cloud",
+                            "aliases": ["gcp"],
+                            "preventAliasDisplay": true
+                        },
+                        {
+                            "name": "oracle_cloud",
+                            "aliases": []
+                        },
+                        {
+                            "name": "ibm_cloud",
+                            "aliases": []
+                        },
+                        {
+                            "name": "digitalocean",
+                            "aliases": []
+                        },
+                        {
+                            "name": "heroku",
+                            "aliases": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Cloud Services (generic concepts)",
+            "categories": [
+                {
+                    "title": "",
+                    "elements": [
+                        {
+                            "name": "cloud_compute",
+                            "aliases": []
+                        },
+                        {
+                            "name": "cloud_storage",
+                            "aliases": []
+                        },
+                        {
+                            "name": "cloud_networking",
+                            "aliases": []
+                        },
+                        {
+                            "name": "cloud_iam",
+                            "aliases": []
+                        },
+                        {
+                            "name": "cloud_functions",
+                            "aliases": []
+                        },
+                        {
+                            "name": "cloud_managed_kubernetes",
+                            "aliases": []
+                        },
+                        {
+                            "name": "cloud_managed_database",
+                            "aliases": []
+                        },
+                        {
+                            "name": "cloud_cdn",
+                            "aliases": []
+                        },
+                        {
+                            "name": "cloud_monitoring",
+                            "aliases": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Infrastructure as Code (IaC)",
+            "categories": [
+                {
+                    "title": "",
+                    "elements": [
+                        {
+                            "name": "terraform",
+                            "aliases": []
+                        },
+                        {
+                            "name": "ansible",
+                            "aliases": []
+                        },
+                        {
+                            "name": "puppet",
+                            "aliases": []
+                        },
+                        {
+                            "name": "chef",
+                            "aliases": []
+                        },
+                        {
+                            "name": "cloudformation",
+                            "aliases": []
+                        },
+                        {
+                            "name": "pulumi",
+                            "aliases": []
+                        },
+                        {
+                            "name": "bicep",
+                            "aliases": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Containerization & Orchestration",
+            "categories": [
+                {
+                    "title": "",
+                    "elements": [
+                        {
+                            "name": "docker",
+                            "aliases": []
+                        },
+                        {
+                            "name": "kubernetes",
+                            "aliases": []
+                        },
+                        {
+                            "name": "helm",
+                            "aliases": []
+                        },
+                        {
+                            "name": "docker_compose",
+                            "aliases": []
+                        },
+                        {
+                            "name": "podman",
+                            "aliases": []
+                        },
+                        {
+                            "name": "openshift",
+                            "aliases": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "CI/CD",
+            "categories": [
+                {
+                    "title": "",
+                    "elements": [
+                        {
+                            "name": "jenkins",
+                            "aliases": []
+                        },
+                        {
+                            "name": "github_actions",
+                            "aliases": []
+                        },
+                        {
+                            "name": "gitlab_ci",
+                            "aliases": []
+                        },
+                        {
+                            "name": "circleci",
+                            "aliases": []
+                        },
+                        {
+                            "name": "travis_ci",
+                            "aliases": []
+                        },
+                        {
+                            "name": "azure_devops_pipelines",
+                            "aliases": []
+                        },
+                        {
+                            "name": "argocd",
+                            "aliases": []
+                        },
+                        {
+                            "name": "spinnaker",
+                            "aliases": []
+                        },
+                        {
+                            "name": "teamcity",
+                            "aliases": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Version Control",
+            "categories": [
+                {
+                    "title": "",
+                    "elements": [
+                        {
+                            "name": "git",
+                            "aliases": []
+                        },
+                        {
+                            "name": "svn",
+                            "aliases": []
+                        },
+                        {
+                            "name": "mercurial",
+                            "aliases": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Networking",
+            "categories": [
+                {
+                    "title": "",
+                    "elements": [
+                        {
+                            "name": "tcp_ip_fundamentals",
+                            "aliases": []
+                        },
+                        {
+                            "name": "dns",
+                            "aliases": []
+                        },
+                        {
+                            "name": "http_https",
+                            "aliases": []
+                        },
+                        {
+                            "name": "load_balancing",
+                            "aliases": []
+                        },
+                        {
+                            "name": "vpn",
+                            "aliases": []
+                        },
+                        {
+                            "name": "firewall_management",
+                            "aliases": []
+                        },
+                        {
+                            "name": "network_monitoring",
+                            "aliases": []
+                        },
+                        {
+                            "name": "software_defined_networking",
+                            "aliases": []
+                        },
+                        {
+                            "name": "cdn_management",
+                            "aliases": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Operating Systems / Server Management",
+            "categories": [
+                {
+                    "title": "",
+                    "elements": [
+                        {
+                            "name": "linux_administration",
+                            "aliases": []
+                        },
+                        {
+                            "name": "windows_server_administration",
+                            "aliases": []
+                        },
+                        {
+                            "name": "macos_administration",
+                            "aliases": []
+                        },
+                        {
+                            "name": "shell_scripting",
+                            "aliases": []
+                        },
+                        {
+                            "name": "system_performance_tuning",
+                            "aliases": []
+                        },
+                        {
+                            "name": "log_management",
+                            "aliases": []
+                        },
+                        {
+                            "name": "cron_job_management",
+                            "aliases": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Security",
+            "categories": [
+                {
+                    "title": "",
+                    "elements": [
+                        {
+                            "name": "application_security",
+                            "aliases": []
+                        },
+                        {
+                            "name": "network_security",
+                            "aliases": []
+                        },
+                        {
+                            "name": "identity_and_access_management",
+                            "aliases": []
+                        },
+                        {
+                            "name": "penetration_testing",
+                            "aliases": []
+                        },
+                        {
+                            "name": "vulnerability_assessment",
+                            "aliases": []
+                        },
+                        {
+                            "name": "siem_tools",
+                            "aliases": []
+                        },
+                        {
+                            "name": "owasp_knowledge",
+                            "aliases": []
+                        },
+                        {
+                            "name": "ssl_tls_management",
+                            "aliases": []
+                        },
+                        {
+                            "name": "secrets_management",
+                            "aliases": []
+                        },
+                        {
+                            "name": "devsecops",
+                            "aliases": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "AI / Machine Learning",
+            "categories": [
+                {
+                    "title": "Foundations",
+                    "elements": [
+                        {
+                            "name": "machine_learning_fundamentals",
+                            "aliases": []
+                        },
+                        {
+                            "name": "deep_learning",
+                            "aliases": []
+                        },
+                        {
+                            "name": "natural_language_processing",
+                            "aliases": []
+                        },
+                        {
+                            "name": "computer_vision",
+                            "aliases": []
+                        },
+                        {
+                            "name": "reinforcement_learning",
+                            "aliases": []
+                        },
+                        {
+                            "name": "data_science",
+                            "aliases": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Frameworks & Tools",
+                    "elements": [
+                        {
+                            "name": "tensorflow",
+                            "aliases": []
+                        },
+                        {
+                            "name": "pytorch",
+                            "aliases": []
+                        },
+                        {
+                            "name": "keras",
+                            "aliases": []
+                        },
+                        {
+                            "name": "scikit_learn",
+                            "aliases": []
+                        },
+                        {
+                            "name": "hugging_face",
+                            "aliases": []
+                        },
+                        {
+                            "name": "langchain",
+                            "aliases": []
+                        },
+                        {
+                            "name": "llamaindex",
+                            "aliases": []
+                        },
+                        {
+                            "name": "openai_api",
+                            "aliases": []
+                        },
+                        {
+                            "name": "mlflow",
+                            "aliases": []
+                        },
+                        {
+                            "name": "kubeflow",
+                            "aliases": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Concepts",
+                    "elements": [
+                        {
+                            "name": "llm_prompting",
+                            "aliases": []
+                        },
+                        {
+                            "name": "rag",
+                            "aliases": ["retrieval augmented generation"]
+                        },
+                        {
+                            "name": "fine_tuning",
+                            "aliases": []
+                        },
+                        {
+                            "name": "vector_databases",
+                            "aliases": []
+                        },
+                        {
+                            "name": "feature_engineering",
+                            "aliases": []
+                        },
+                        {
+                            "name": "model_evaluation",
+                            "aliases": []
+                        },
+                        {
+                            "name": "mlops",
+                            "aliases": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Vector Databases",
+                    "elements": [
+                        {
+                            "name": "pinecone",
+                            "aliases": []
+                        },
+                        {
+                            "name": "weaviate",
+                            "aliases": []
+                        },
+                        {
+                            "name": "chroma",
+                            "aliases": []
+                        },
+                        {
+                            "name": "qdrant",
+                            "aliases": []
+                        },
+                        {
+                            "name": "pgvector",
+                            "aliases": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Data Engineering & Big Data",
+            "categories": [
+                {
+                    "title": "",
+                    "elements": [
+                        {
+                            "name": "apache_spark",
+                            "aliases": []
+                        },
+                        {
+                            "name": "apache_kafka",
+                            "aliases": []
+                        },
+                        {
+                            "name": "apache_flink",
+                            "aliases": []
+                        },
+                        {
+                            "name": "apache_airflow",
+                            "aliases": []
+                        },
+                        {
+                            "name": "hadoop",
+                            "aliases": []
+                        },
+                        {
+                            "name": "dbt",
+                            "aliases": []
+                        },
+                        {
+                            "name": "data_warehousing",
+                            "aliases": []
+                        },
+                        {
+                            "name": "etl_pipelines",
+                            "aliases": []
+                        },
+                        {
+                            "name": "stream_processing",
+                            "aliases": []
+                        },
+                        {
+                            "name": "batch_processing",
+                            "aliases": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Observability & Monitoring",
+            "categories": [
+                {
+                    "title": "",
+                    "elements": [
+                        {
+                            "name": "prometheus",
+                            "aliases": []
+                        },
+                        {
+                            "name": "grafana",
+                            "aliases": []
+                        },
+                        {
+                            "name": "datadog",
+                            "aliases": []
+                        },
+                        {
+                            "name": "newrelic",
+                            "aliases": []
+                        },
+                        {
+                            "name": "splunk",
+                            "aliases": []
+                        },
+                        {
+                            "name": "elk_stack",
+                            "aliases": ["elasticsearch + logstash + kibana stack"]
+                        },
+                        {
+                            "name": "opentelemetry",
+                            "aliases": []
+                        },
+                        {
+                            "name": "jaeger",
+                            "aliases": []
+                        },
+                        {
+                            "name": "pagerduty",
+                            "aliases": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Integration & Messaging",
+            "categories": [
+                {
+                    "title": "",
+                    "elements": [
+                        {
+                            "name": "rest_api",
+                            "aliases": []
+                        },
+                        {
+                            "name": "soap_webservices",
+                            "aliases": []
+                        },
+                        {
+                            "name": "grpc",
+                            "aliases": []
+                        },
+                        {
+                            "name": "graphql",
+                            "aliases": []
+                        },
+                        {
+                            "name": "rabbitmq",
+                            "aliases": []
+                        },
+                        {
+                            "name": "apache_kafka",
+                            "aliases": []
+                        },
+                        {
+                            "name": "activemq",
+                            "aliases": []
+                        },
+                        {
+                            "name": "aws_sqs_sns",
+                            "aliases": []
+                        },
+                        {
+                            "name": "mulesoft",
+                            "aliases": []
+                        },
+                        {
+                            "name": "apigee",
+                            "aliases": []
+                        },
+                        {
+                            "name": "ibm_mq",
+                            "aliases": []
+                        },
+                        {
+                            "name": "webhooks",
+                            "aliases": []
+                        },
+                        {
+                            "name": "event_streaming",
+                            "aliases": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Software Architecture & Design",
+            "categories": [
+                {
+                    "title": "",
+                    "elements": [
+                        {
+                            "name": "microservices",
+                            "aliases": []
+                        },
+                        {
+                            "name": "monolithic_architecture",
+                            "aliases": []
+                        },
+                        {
+                            "name": "event_driven_architecture",
+                            "aliases": []
+                        },
+                        {
+                            "name": "domain_driven_design",
+                            "aliases": []
+                        },
+                        {
+                            "name": "cqrs",
+                            "aliases": []
+                        },
+                        {
+                            "name": "api_gateway_pattern",
+                            "aliases": []
+                        },
+                        {
+                            "name": "serverless_architecture",
+                            "aliases": []
+                        },
+                        {
+                            "name": "hexagonal_architecture",
+                            "aliases": []
+                        },
+                        {
+                            "name": "solid_principles",
+                            "aliases": []
+                        },
+                        {
+                            "name": "design_patterns",
+                            "aliases": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Project Management & Methodologies",
+            "categories": [
+                {
+                    "title": "Traditional",
+                    "elements": [
+                        {
+                            "name": "traditional_project_management",
+                            "aliases": []
+                        },
+                        {
+                            "name": "waterfall",
+                            "aliases": []
+                        },
+                        {
+                            "name": "pmp_certification",
+                            "aliases": []
+                        },
+                        {
+                            "name": "prince2",
+                            "aliases": []
+                        }
+                    ]
+                },
+                {
+                    "title": "Agile Family",
+                    "elements": [
+                        {
+                            "name": "agile_mindset",
+                            "aliases": []
+                        },
+                        {
+                            "name": "scrum",
+                            "aliases": []
+                        },
+                        {
+                            "name": "kanban",
+                            "aliases": []
+                        },
+                        {
+                            "name": "safe",
+                            "aliases": ["scaled agile framework"],
+                            "mergedDisplay": true
+                        },
+                        {
+                            "name": "less",
+                            "aliases": ["large-scale scrum"],
+                            "mergedDisplay": true
+                        },
+                        {
+                            "name": "xp",
+                            "aliases": ["extreme programming"],
+                            "mergedDisplay": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Supporting Practices",
+                    "elements": [
+                        {
+                            "name": "jira",
+                            "aliases": []
+                        },
+                        {
+                            "name": "trello",
+                            "aliases": []
+                        },
+                        {
+                            "name": "asana",
+                            "aliases": []
+                        },
+                        {
+                            "name": "confluence",
+                            "aliases": []
+                        },
+                        {
+                            "name": "technical_documentation",
+                            "aliases": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "IoT",
+            "categories": [
+                {
+                    "title": "",
+                    "elements": [
+                        {
+                            "name": "iot_fundamentals",
+                            "aliases": []
+                        },
+                        {
+                            "name": "mqtt_protocol",
+                            "aliases": []
+                        },
+                        {
+                            "name": "embedded_systems",
+                            "aliases": []
+                        },
+                        {
+                            "name": "raspberry_pi",
+                            "aliases": []
+                        },
+                        {
+                            "name": "arduino",
+                            "aliases": []
+                        },
+                        {
+                            "name": "edge_computing",
+                            "aliases": []
+                        },
+                        {
+                            "name": "azure_iot_hub",
+                            "aliases": []
+                        },
+                        {
+                            "name": "aws_iot_core",
+                            "aliases": []
+                        },
+                        {
+                            "name": "modbus_protocol",
+                            "aliases": []
+                        },
+                        {
+                            "name": "opcua_protocol",
+                            "aliases": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Soft Skills / General IT",
+            "categories": [
+                {
+                    "title": "",
+                    "elements": [
+                        {
+                            "name": "technical_leadership",
+                            "aliases": []
+                        },
+                        {
+                            "name": "team_management",
+                            "aliases": []
+                        },
+                        {
+                            "name": "code_review",
+                            "aliases": []
+                        },
+                        {
+                            "name": "mentoring",
+                            "aliases": []
+                        },
+                        {
+                            "name": "system_design_interviews",
+                            "aliases": []
+                        },
+                        {
+                            "name": "stakeholder_communication",
+                            "aliases": []
+                        },
+                        {
+                            "name": "remote_collaboration",
+                            "aliases": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

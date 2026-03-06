@@ -1,6 +1,8 @@
 // index.js
 const express = require('express');
-const { asyncTauQuery } = require('./public/scripts/tau')
+const { asyncTauQuery } = require('./public/scripts/tau');
+
+const fs = require('fs');
 const path = require('path');
 
 const app = express();
@@ -16,6 +18,15 @@ app.get('/', (req, res) => {
 });
 
 // API endpoints
+app.post('/categories', async (req, res) => {
+  try {
+    const response = fs.readFileSync(path.join(__dirname, 'data', 'form.json'), 'utf8');
+    res.json(response);
+  } catch (err) {
+    res.status(400).json({ error: err.message });
+  }
+});
+
 app.post('/query', async (req, res) => {
   const { dynamicRules, query } = req.body;
   try {
