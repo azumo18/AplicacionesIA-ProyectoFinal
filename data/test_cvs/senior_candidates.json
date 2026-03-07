@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Luis Montoya",
+    "introduction": "Arquitecto Frontend Senior con más de 8 años de experiencia. Especialista en la creación de aplicaciones SPA altamente reactivas, diseño de arquitecturas escalables y liderazgo de equipos técnicos.",
+    "contactInformation": {
+      "email": "lmontoya.arch@example.com",
+      "phone": "+506 8888 1010",
+      "website": "github.com/luismontoya-arch"
+    },
+    "workExperience": [
+      {
+        "company": "TechVision Enterprise",
+        "startDate": "2018-04",
+        "endDate": "Present",
+        "position": "Lead Frontend Architect",
+        "description": "Liderazgo en la migración de sistemas legacy a arquitecturas modernas con Angular. Implementación de patrones de diseño, optimización de rendimiento y revisión de código para múltiples equipos."
+      },
+      {
+        "company": "WebSolutions CR",
+        "startDate": "2015-02",
+        "endDate": "2018-03",
+        "position": "Senior UI Engineer",
+        "description": "Desarrollo de paneles de control interactivos y gestión del estado en aplicaciones complejas del sector corporativo."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad Nacional",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas de Información",
+        "startDate": "2010",
+        "endDate": "2014"
+      }
+    ],
+    "skills": ["javascript", "typescript", "angular", "reactive_programming", "solid_principles", "design_patterns", "technical_leadership", "code_review"]
+  },
+  {
+    "name": "Carolina Jiménez",
+    "introduction": "Principal AI & Data Engineer. Extensa trayectoria en el diseño de modelos predictivos y sistemas de Procesamiento de Lenguaje Natural (NLP) para el análisis de riesgo financiero y cumplimiento normativo.",
+    "contactInformation": {
+      "email": "cjimenez.ai@example.com",
+      "phone": "+506 8888 2020",
+      "website": "linkedin.com/in/carolinajimenez-ai"
+    },
+    "workExperience": [
+      {
+        "company": "RegTech Analytics",
+        "startDate": "2019-08",
+        "endDate": "Present",
+        "position": "Principal Data Scientist",
+        "description": "Diseño e implementación de sistemas RAG para interactuar con vastos volúmenes de regulaciones financieras. Mentoring a científicos de datos junior."
+      },
+      {
+        "company": "BankCorp CR",
+        "startDate": "2014-06",
+        "endDate": "2019-07",
+        "position": "Senior Machine Learning Engineer",
+        "description": "Desarrollo de modelos de deep learning para detección de anomalías y prevención de fraudes bancarios en tiempo real."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Maestría",
+        "title": "Ciencias de la Computación con énfasis en Inteligencia Artificial",
+        "startDate": "2012",
+        "endDate": "2014"
+      }
+    ],
+    "skills": ["python", "data_science", "deep_learning", "natural_language_processing", "llm_prompting", "rag", "vector_databases", "qdrant", "langchain", "mentoring"]
+  },
+  {
+    "name": "Ricardo Alfaro",
+    "introduction": "Ingeniero de Datos Senior especializado en ecosistemas Big Data y arquitecturas orientadas a eventos. Experto en procesar y transformar petabytes de información estructurada y no estructurada.",
+    "contactInformation": {
+      "email": "ralfaro.data@example.com",
+      "phone": "+506 8888 3030",
+      "website": "github.com/ralfarodata"
+    },
+    "workExperience": [
+      {
+        "company": "DataStream Solutions",
+        "startDate": "2017-11",
+        "endDate": "Present",
+        "position": "Senior Data Engineer",
+        "description": "Construcción de pipelines ETL robustos y procesamiento de flujos de datos en tiempo real para analítica empresarial a gran escala."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Instituto Tecnológico",
+        "degree": "Licenciatura",
+        "title": "Ingeniería en Computación",
+        "startDate": "2011",
+        "endDate": "2016"
+      }
+    ],
+    "skills": ["scala", "python", "apache_spark", "apache_kafka", "hadoop", "dbt", "etl_pipelines", "stream_processing", "event_driven_architecture", "google_cloud"]
+  },
+  {
+    "name": "Mariana Salas",
+    "introduction": "Tech Lead de Backend con 12 años de experiencia. Apasionada por el diseño guiado por el dominio (DDD), sistemas altamente concurrentes y arquitecturas serverless.",
+    "contactInformation": {
+      "email": "msalas.backend@example.com",
+      "phone": "+506 8888 4040",
+      "website": "marianasalas.dev"
+    },
+    "workExperience": [
+      {
+        "company": "Global E-Commerce",
+        "startDate": "2020-01",
+        "endDate": "Present",
+        "position": "Backend Tech Lead",
+        "description": "Liderazgo técnico en la transición de un sistema monolítico a una arquitectura de microservicios usando Go y Rust, reduciendo tiempos de respuesta en un 60%."
+      },
+      {
+        "company": "Software Boutique",
+        "startDate": "2012-05",
+        "endDate": "2019-12",
+        "position": "Senior Software Engineer",
+        "description": "Desarrollo de APIs gRPC y diseño de bases de datos para plataformas de alta transaccionalidad."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad Latina",
+        "degree": "Bachillerato",
+        "title": "Ingeniería de Software",
+        "startDate": "2007",
+        "endDate": "2011"
+      }
+    ],
+    "skills": ["go", "rust", "grpc", "microservices", "domain_driven_design", "serverless_architecture", "docker", "kubernetes", "aws", "system_design_interviews"]
+  },
+  {
+    "name": "Esteban Mora",
+    "introduction": "Senior Site Reliability Engineer (SRE). Fuerte enfoque en la resiliencia de la infraestructura, automatización en la nube y establecimiento de métricas de observabilidad profundas.",
+    "contactInformation": {
+      "email": "emora.sre@example.com",
+      "phone": "+506 8888 5050",
+      "website": "linkedin.com/in/esteban-mora-sre"
+    },
+    "workExperience": [
+      {
+        "company": "CloudNative CR",
+        "startDate": "2016-10",
+        "endDate": "Present",
+        "position": "Senior SRE / DevOps Manager",
+        "description": "Administración de clusters de Kubernetes gestionados, optimización de rendimiento del sistema y liderazgo del equipo de respuesta a incidentes."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad Cenfotec",
+        "degree": "Especialización",
+        "title": "Arquitecturas Cloud y DevOps",
+        "startDate": "2014",
+        "endDate": "2015"
+      }
+    ],
+    "skills": ["bash", "terraform", "ansible", "kubernetes", "prometheus", "grafana", "datadog", "opentelemetry", "system_performance_tuning", "cloud_managed_kubernetes"]
+  }
+]
