@@ -1,6 +1,7 @@
 // index.js
 const express = require('express');
 const { asyncTauQuery } = require('./public/scripts/tau');
+const { asyncExtractAllCandidates } = require('./public/scripts/candidate-facts');
 
 const fs = require('fs');
 const path = require('path');
@@ -36,6 +37,29 @@ app.post('/query', async (req, res) => {
     res.status(400).json({ error: err.message });
   }
 });
+
+app.get('/candidates', async (req, res) => {
+  try {
+    const { resumesFileName } = req.query;
+    const response = await asyncExtractAllCandidates(path.join(__dirname, 'data', 'test_cvs', resumesFileName));
+    res.json(response);
+  } catch (err) {
+    res.status(400).json({ error: err.message });
+  }
+});
+
+/* 
+app.post('/evaluate_candidates', async (req, res) => {
+  try {
+    const { candidates } = req.body;
+    // console.log('candidates >>', candidates);
+    const response = await asyncEvaluateCandidates(candidates);
+    res.json(response);
+  } catch (err) {
+    res.status(400).json({ error: err.message });
+  }
+});
+*/
 
 // Start server
 app.listen(PORT, () => {
