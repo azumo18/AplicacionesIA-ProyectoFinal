@@ -4,12 +4,12 @@
 % File: base.pl
 % ============================================================
 
-% :- discontiguous has_experience/2.
-% :- discontiguous transferable_skill/3.
-% :- discontiguous role_match/2.
+:- discontiguous(has_experience/2).
+:- discontiguous(transferable_skill/3).
+:- discontiguous(role_match/2).
 
-% :- dynamic has_skill/2.
-% :- dynamic experience_level/3.
+:- dynamic(has_skill/2).
+:- dynamic(experience_level/3).
 
 % ============================================================
 % SECTION 1 – ATOMS

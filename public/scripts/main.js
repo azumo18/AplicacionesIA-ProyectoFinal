@@ -48,6 +48,16 @@ window.addEventListener('load', async () => {
     [...document.querySelectorAll('.conceptContainer > .form-check-input')].forEach(e => e.addEventListener('change', checkboxClick));
 
     document.querySelector('#searchInput').addEventListener('input', search);
+    document.querySelector('#submitButton').addEventListener('click', submit);
+    
+    window.addEventListener('scroll', () => {
+        console.log(document.documentElement.scrollTop);
+        if(document.documentElement.scrollTop > 120) document.querySelector('#backToTopButton').style.display = 'block';
+        else document.querySelector('#backToTopButton').style.display = 'none';
+    });
+    document.querySelector('#backToTopButton').addEventListener('click', () => document.documentElement.scrollTop = 0);
+
+    document.querySelector('.modalContainer .btn-close').addEventListener('click', () => document.querySelector('.modalContainer').style.visibility = 'hidden');
 });
 
 const search = (event) => {
@@ -80,7 +90,7 @@ const search = (event) => {
             tab.categories.forEach(category => {
                 category.elements.forEach(element => {
                     const div = document.createElement('div');
-                    div.textContent = `${tab.title} ${category.title != '' ? `> ${category.title}` : ''}> ${formatConcept(element)}`;
+                    div.textContent = `${tab.title} ${category.title != '' ? `> ${category.title} ` : ''}> ${formatConcept(element)}`;
                     div.onclick = () => {
                         hintBoxClick(tab.index, category.index, element.index);
                         hintBox.style.display = 'none';
@@ -165,4 +175,30 @@ const checkboxClick = (event) => {
             }).join('')}`
         }).join('')}`
     }).join('');
+};
+
+const submit = async () => {
+    if(selectedITCategories.tabs.length == 0) {
+        alert('Must select at least 1 item.');
+        return;
+    }
+
+    const dynamicRules = selectedITCategories.tabs.map(tab => tab.categories.map(category => category.elements.map(element => `required_skill(${element.name}).`).join('\n')).join('\n')).join('\n');
+    const query = `top_applicants_percent(3, TopList).`;
+
+    const body = {
+        dynamicRules,
+        query
+    };
+
+    const response = await fetch('/query', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(body)
+    });
+
+    const data = await response.json();
+
+    document.querySelector('#resultsContainer').value = data.results.join('\n');
+    document.querySelector('.modalContainer').style.visibility = 'visible';
 };

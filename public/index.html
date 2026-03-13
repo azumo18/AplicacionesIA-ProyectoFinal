@@ -15,7 +15,7 @@
         <h1>Custom ATS</h1>
         <div class="flexed-row">
             <label for="search" class="form-label"><span class="align-middle">Search:</span></label>
-            <input id="searchInput" type="search" class="main-child form-control">
+            <input id="searchInput" type="search" class="main-child form-control" placeholder="Example: java">
         </div>
         <div id="hintBox"></div>
         <div class="row">
@@ -27,9 +27,29 @@
                 </div>
             </div>
             <div class="col-5">
-                <p>Summary:</p>
-                <textarea id="summaryContainer" disabled></textarea>
-                <button id="submitButton" class="btn btn-primary">Submit</button>
+                <div id="summaryColumn">
+                    <p>Summary:</p>
+                    <textarea id="summaryContainer" disabled></textarea>
+                    <button id="submitButton" class="btn btn-primary">Submit</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <button id="backToTopButton" type="button" class="btn btn-sm btn-secondary">▲<br>Back<br>to Top</button> 
+    
+    <div class="modalContainer">
+        <div class="container rounded-2">
+            <div class="row">
+                <div class="col-12">
+                    <p class="float-start">Results:</p>
+                    <button type="button" class="btn-close float-end"></button>
+                </div>
+            </div>
+            <div class="row main">
+                <div class="col-12">
+                    <textarea id="resultsContainer" disabled></textarea>
+                </div>
             </div>
         </div>
     </div>

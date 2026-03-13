@@ -59,6 +59,58 @@ textarea {
     top: 25vh;
 }
 
+.modalContainer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, .5);
+    width: 100%;
+    height: 100vh;
+    visibility: hidden;
+}
+
+.modalContainer > .container {
+    background-color: var(--bs-border-color);
+    height: 90vh;
+    position: relative;
+    top: 5vh;
+    overflow: hidden;
+    border: 2px solid rgba(118, 118, 118, 0.3);
+    display: flex;
+    flex-direction: column;
+}
+
+.modalContainer div.row {
+    padding: 10px 0;
+}
+
+.modalContainer div.row:has(.btn-close) {
+    background-color: rgba(0, 0, 0, .25);
+}
+
+.modalContainer .row.main {
+    flex: 1;
+}
+
+.modalContainer #resultsContainer {
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+}
+
+#backToTopButton {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    font-size: x-small;
+    opacity: .5;
+    display: none;
+}
+
+#backToTopButton:hover {
+    opacity: 1;
+}
+
 #categoryAccordion {
     position: relative;
 }
@@ -69,6 +121,12 @@ textarea {
 
 #searchInput {
     margin-bottom: 6px;
+}
+
+#summaryColumn {
+    position: sticky;
+    width: stretch;
+    top: 0;
 }
 
 #summaryContainer {
