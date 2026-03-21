@@ -1,6 +1,7 @@
 
 let ITCategories = undefined;
 let selectedITCategories = { tabs: [] };
+let candidateFacts = [];
 
 window.addEventListener('load', async () => {
     const response = await fetch('/categories', {
@@ -11,7 +12,7 @@ window.addEventListener('load', async () => {
 
     const data = await response.json();
     ITCategories = JSON.parse(data);
-    console.log('IT Categories', ITCategories);
+    // console.log('IT Categories', ITCategories);
 
     const html = ITCategories.tabs.map((tab, tabIndex) => {
         tab.index = tabIndex;
@@ -58,6 +59,15 @@ window.addEventListener('load', async () => {
     document.querySelector('#backToTopButton').addEventListener('click', () => document.documentElement.scrollTop = 0);
 
     document.querySelector('.modalContainer .btn-close').addEventListener('click', () => document.querySelector('.modalContainer').style.visibility = 'hidden');
+
+    //#region Load candidates
+    const resumesFileName = 'junior_candidates.json';
+    const candidates = await fetch(`/candidates?resumesFileName=${resumesFileName}`, {
+        method: 'GET',
+        headers: { 'Content-Type': 'application/json' }
+    });
+    candidateFacts = await candidates.json();
+    //#endregion
 });
 
 const search = (event) => {
@@ -183,7 +193,9 @@ const submit = async () => {
         return;
     }
 
-    const dynamicRules = selectedITCategories.tabs.map(tab => tab.categories.map(category => category.elements.map(element => `required_skill(${element.name}).`).join('\n')).join('\n')).join('\n');
+    let dynamicRules = selectedITCategories.tabs.map(tab => tab.categories.map(category => category.elements.map(element => `required_skill(${element.name}).`).join('\n')).join('\n')).join('\n');
+    dynamicRules += candidateFacts;
+
     const query = `top_applicants_percent(3, TopList).`;
 
     const body = {

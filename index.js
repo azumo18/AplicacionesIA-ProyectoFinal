@@ -48,19 +48,6 @@ app.get('/candidates', async (req, res) => {
   }
 });
 
-/* 
-app.post('/evaluate_candidates', async (req, res) => {
-  try {
-    const { candidates } = req.body;
-    // console.log('candidates >>', candidates);
-    const response = await asyncEvaluateCandidates(candidates);
-    res.json(response);
-  } catch (err) {
-    res.status(400).json({ error: err.message });
-  }
-});
-*/
-
 // Start server
 app.listen(PORT, () => {
   console.log(`Server running on http://localhost:${PORT}`);

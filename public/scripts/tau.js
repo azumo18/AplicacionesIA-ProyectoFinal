@@ -19,19 +19,22 @@ const asyncTauQuery = async(staticRulesFolderPath, dynamicRules, query) => {
   const session = pl.create();
   
   await session.promiseConsult(":- use_module(library(lists)).");
-
   const staticRulesFiles = getPrologFiles(staticRulesFolderPath);
   const staticRules = getPrologFilesContent(staticRulesFiles);
   for(const ruleSet of staticRules) await session.promiseConsult(ruleSet);
-  
-  await session.promiseConsult(dynamicRules);
-  await session.promiseQuery(query);
-  
+
   const results = [];
   try {
+    await session.promiseConsult(dynamicRules);
+    await session.promiseQuery(query);
+
     for await (let answer of session.promiseAnswers()) 
       results.push(session.format_answer(answer));
+
   } catch (error) {
+    if(error.ref === 225735 || error.ref === 225736) {
+      console.error("Prolog Error: Should only english characters.");
+    }
     if(error.id === 'throw') {
       const errorTerm = error.args[0]; // the error/2 term
       const errorType = errorTerm.args[0].id; // e.g. existence_error
