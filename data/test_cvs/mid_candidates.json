@@ -1,7 +1,7 @@
 [
   {
     "name": "Marcos Ureña",
-    "introduction": "Desarrollador Frontend Mid-Level con 4 años de experiencia. Apasionado por la creación de paneles administrativos complejos y el manejo eficiente del estado en el cliente utilizando arquitecturas modernas.",
+    "introduction": "Desarrollador Frontend Mid-Level con 4 años de experiencia. Apasionado por la creacion de paneles administrativos complejos y el manejo eficiente del estado en el cliente utilizando arquitecturas modernas.",
     "contactInformation": {
       "email": "murena.front@example.com",
       "phone": "+506 8888 1234",
@@ -13,21 +13,21 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "Frontend Developer",
-        "description": "Desarrollo de un dashboard profesional utilizando las últimas versiones de Angular. Implementación de módulos de carga perezosa (lazy-loading), standalone components y reactividad avanzada con signals."
+        "description": "Desarrollo de un dashboard profesional utilizando las ultimas versiones de Angular. Implementacion de modulos de carga perezosa (lazy-loading), standalone components y reactividad avanzada con signals."
       },
       {
         "company": "Digital Agency CR",
         "startDate": "2020-05",
         "endDate": "2021-12",
         "position": "Junior Web Developer",
-        "description": "Maquetación de sitios web y consumo de APIs RESTful para clientes del sector retail."
+        "description": "Maquetacion de sitios web y consumo de APIs RESTful para clientes del sector retail."
       }
     ],
     "education": [
       {
         "institution": "Universidad Nacional",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas de Información",
+        "title": "Ingenieria en Sistemas de Informacion",
         "startDate": "2016",
         "endDate": "2020"
       }
@@ -35,8 +35,8 @@
     "skills": ["angular", "typescript", "javascript", "html_css", "reactive_programming", "git", "rest_api"]
   },
   {
-    "name": "Valeria Sánchez",
-    "introduction": "Ingeniera Fullstack Mid-Level. Experiencia sólida en la construcción de sistemas de gestión de usuarios y despliegues automatizados, con un enfoque en la calidad del código y pruebas integrales.",
+    "name": "Valeria Sanchez",
+    "introduction": "Ingeniera Fullstack Mid-Level. Experiencia solida en la construccion de sistemas de gestion de usuarios y despliegues automatizados, con un enfoque en la calidad del codigo y pruebas integrales.",
     "contactInformation": {
       "email": "vsanchez.full@example.com",
       "phone": "+506 8888 2345",
@@ -48,14 +48,14 @@
         "startDate": "2021-08",
         "endDate": "Present",
         "position": "Fullstack Developer",
-        "description": "Diseño e implementación de una aplicación para centros de acondicionamiento físico. Desarrollo de sistemas de login con control de roles, seguimiento de historial y gestión de mediciones físicas usando Express y PostgreSQL."
+        "description": "Diseño e implementacion de una aplicacion para centros de acondicionamiento fisico. Desarrollo de sistemas de login con control de roles, seguimiento de historial y gestion de mediciones fisicas usando Express y PostgreSQL."
       }
     ],
     "education": [
       {
-        "institution": "Instituto Tecnológico de Costa Rica",
+        "institution": "Instituto Tecnologico de Costa Rica",
         "degree": "Licenciatura",
-        "title": "Ingeniería en Computación",
+        "title": "Ingenieria en Computacion",
         "startDate": "2015",
         "endDate": "2020"
       }
@@ -63,8 +63,8 @@
     "skills": ["javascript", "express", "postgresql", "vue", "docker", "github_actions", "sql", "linux_administration"]
   },
   {
-    "name": "Esteban Quirós",
-    "introduction": "Data Engineer / ML Developer con 3.5 años de experiencia. Especializado en el análisis de datos estructurados para la detección de anomalías y la integración de módulos de inteligencia artificial en aplicaciones tradicionales.",
+    "name": "Esteban Quiros",
+    "introduction": "Data Engineer / ML Developer con 3.5 años de experiencia. Especializado en el analisis de datos estructurados para la deteccion de anomalias y la integracion de modulos de inteligencia artificial en aplicaciones tradicionales.",
     "contactInformation": {
       "email": "equiros.data@example.com",
       "phone": "+506 8888 3456",
@@ -76,21 +76,21 @@
         "startDate": "2022-03",
         "endDate": "Present",
         "position": "Machine Learning Engineer",
-        "description": "Desarrollo de modelos de clustering (K-Means) y algoritmos de detección de anomalías para plataformas de análisis de riesgo financiero y evaluación de estabilidad."
+        "description": "Desarrollo de modelos de clustering (K-Means) y algoritmos de deteccion de anomalias para plataformas de analisis de riesgo financiero y evaluacion de estabilidad."
       },
       {
         "company": "DataCorp",
         "startDate": "2021-01",
         "endDate": "2022-02",
         "position": "Data Analyst",
-        "description": "Limpieza de datos y automatización de reportes utilizando Python y librerías de análisis."
+        "description": "Limpieza de datos y automatizacion de reportes utilizando Python y librerias de analisis."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Estadística",
+        "title": "Estadistica",
         "startDate": "2016",
         "endDate": "2020"
       }
@@ -99,7 +99,7 @@
   },
   {
     "name": "Silvia Navarro",
-    "introduction": "Ingeniera de Calidad de Software (QA Automation) Mid-Level. Dedicada a garantizar la estabilidad del software mediante estrategias de pruebas automatizadas y metodologías rigurosas de aseguramiento de calidad.",
+    "introduction": "Ingeniera de Calidad de Software (QA Automation) Mid-Level. Dedicada a garantizar la estabilidad del software mediante estrategias de pruebas automatizadas y metodologias rigurosas de aseguramiento de calidad.",
     "contactInformation": {
       "email": "snavarro.qa@example.com",
       "phone": "+506 8888 4567",
@@ -111,14 +111,14 @@
         "startDate": "2021-06",
         "endDate": "Present",
         "position": "QA Automation Engineer",
-        "description": "Implementación de estrategias de testing para sistemas universitarios. Diseño de pruebas de caja negra, de caja blanca y análisis FMEA, integrando scripts de automatización en los pipelines de CI/CD."
+        "description": "Implementacion de estrategias de testing para sistemas universitarios. Diseño de pruebas de caja negra, de caja blanca y analisis FMEA, integrando scripts de automatizacion en los pipelines de CI/CD."
       }
     ],
     "education": [
       {
         "institution": "Universidad Latina",
         "degree": "Bachillerato",
-        "title": "Ingeniería de Software",
+        "title": "Ingenieria de Software",
         "startDate": "2017",
         "endDate": "2021"
       }
@@ -127,7 +127,7 @@
   },
   {
     "name": "Jorge Chaves",
-    "introduction": "Backend Developer Mid-Level con 4.5 años de experiencia. Fuerte inclinación hacia la lógica de programación compleja, el diseño de agentes autónomos y sistemas de emparejamiento de datos.",
+    "introduction": "Backend Developer Mid-Level con 4.5 años de experiencia. Fuerte inclinacion hacia la logica de programacion compleja, el diseño de agentes autonomos y sistemas de emparejamiento de datos.",
     "contactInformation": {
       "email": "jchaves.backend@example.com",
       "phone": "+506 8888 5678",
@@ -139,7 +139,7 @@
         "startDate": "2021-09",
         "endDate": "Present",
         "position": "Backend Developer",
-        "description": "Diseño de la lógica central para sistemas de seguimiento de candidatos (ATS). Desarrollo de motores de negociación basados en reglas y optimización de consultas en bases de datos relacionales."
+        "description": "Diseño de la logica central para sistemas de seguimiento de candidatos (ATS). Desarrollo de motores de negociacion basados en reglas y optimizacion de consultas en bases de datos relacionales."
       },
       {
         "company": "StartUp CR",
@@ -152,7 +152,7 @@
     "education": [
       {
         "institution": "Cenfotec",
-        "degree": "Técnico Superior",
+        "degree": "Tecnico Superior",
         "title": "Desarrollo de Software",
         "startDate": "2017",
         "endDate": "2019"

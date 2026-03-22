@@ -1,7 +1,16 @@
 window.addEventListener('load', () => {
     document.querySelector('#postQueryButton').addEventListener('click', async () => {
-        const dynamicRules = document.querySelector('#dynamicRulesContainer').value;
+        let dynamicRules = document.querySelector('#dynamicRulesContainer').value;
         const query = document.querySelector('#queryContainer').value;
+
+        //#region Load candidates
+        const resumesFileName = 'junior_candidates.json';
+        const candidates = await fetch(`/candidates?resumesFileName=${resumesFileName}`, {
+            method: 'GET',
+            headers: { 'Content-Type': 'application/json' }
+        });
+        dynamicRules += await candidates.json();
+        //#endregion
 
         const body = {
             dynamicRules,
@@ -54,38 +63,14 @@ window.addEventListener('load', () => {
     });
 
     // un boton que llame a la api candidates y 
-    // evalúa cada candidato de la lista de candidatos
+    // evalua cada candidato de la lista de candidatos
     document.querySelector('#postCandidateFactsButton').addEventListener('click', async () => {
         const resumesFileName = 'junior_candidates.json';
-
-        const response = await fetch(`/candidates?resumesFileName=${resumesFileName}`, {
+        const candidates = await fetch(`/candidates?resumesFileName=${resumesFileName}`, {
             method: 'GET',
             headers: { 'Content-Type': 'application/json' }
         });
-        const candidates = await response.json();
-
-        const results = [];
-        for (const candidate of candidates) {
-            const { candidateId, prologFacts, queries } = candidate;
-
-            for (const query of queries) {
-                const body = {
-                    dynamicRules: prologFacts,
-                    query
-                };
-                const response2 = await fetch('/query', {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify(body)
-                });
-                const answer = await response2.json();
-                console.log(answer)
-                results.push({ candidateId, answer });
-            }
-        }
-
-        console.log('results', results);
-
-        document.querySelector('#resultsContainer').value = result.join('\n');
+        const result = await candidates.json();
+        alert(result);
     });
 });

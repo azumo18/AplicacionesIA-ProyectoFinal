@@ -1,7 +1,7 @@
 [
   {
-    "name": "Tomás Castro",
-    "introduction": "Desarrollador Frontend Junior con gran entusiasmo por el ecosistema JavaScript. Interesado en las últimas versiones de Angular, arquitecturas modernas y la creación de interfaces de usuario limpias y responsivas.",
+    "name": "Tomas Castro",
+    "introduction": "Desarrollador Frontend Junior con gran entusiasmo por el ecosistema JavaScript. Interesado en las ultimas versiones de Angular, arquitecturas modernas y la creacion de interfaces de usuario limpias y responsivas.",
     "contactInformation": {
       "email": "tcastro.front@example.com",
       "phone": "+506 8888 1122",
@@ -13,14 +13,14 @@
         "startDate": "2023-08",
         "endDate": "2024-02",
         "position": "Frontend Intern",
-        "description": "Apoyo en la maquetación de sitios web corporativos y migración de componentes clásicos a nuevas arquitecturas utilizando TypeScript."
+        "description": "Apoyo en la maquetacion de sitios web corporativos y migracion de componentes clasicos a nuevas arquitecturas utilizando TypeScript."
       }
     ],
     "education": [
       {
         "institution": "Universidad Nacional",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2019",
         "endDate": "2023"
       }
@@ -28,8 +28,8 @@
     "skills": ["javascript", "typescript", "angular", "html_css", "git", "agile_mindset", "scrum"]
   },
   {
-    "name": "Lucía Vega",
-    "introduction": "Desarrolladora Junior orientada a Datos e Inteligencia Artificial. Interés particular en la aplicación de modelos de machine learning y módulos RAG para el análisis de datos complejos, como el riesgo financiero.",
+    "name": "Lucia Vega",
+    "introduction": "Desarrolladora Junior orientada a Datos e Inteligencia Artificial. Interes particular en la aplicacion de modelos de machine learning y modulos RAG para el analisis de datos complejos, como el riesgo financiero.",
     "contactInformation": {
       "email": "lvega.data@example.com",
       "phone": "+506 8888 3344",
@@ -41,14 +41,14 @@
         "startDate": "2023-01",
         "endDate": "2023-07",
         "position": "Data Science Trainee",
-        "description": "Limpieza de bases de datos relacionales, creación de dashboards interactivos y asistencia en la estructuración de flujos de datos con Python."
+        "description": "Limpieza de bases de datos relacionales, creacion de dashboards interactivos y asistencia en la estructuracion de flujos de datos con Python."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Estadística e Informática",
+        "title": "Estadistica e Informatica",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -57,7 +57,7 @@
   },
   {
     "name": "Kevin Rojas",
-    "introduction": "Ingeniero de Software Junior con sólida base en fundamentos de ciencias de la computación. Apasionado por la programación a bajo nivel, algoritmos y el funcionamiento interno de los sistemas operativos.",
+    "introduction": "Ingeniero de Software Junior con solida base en fundamentos de ciencias de la computacion. Apasionado por la programacion a bajo nivel, algoritmos y el funcionamiento interno de los sistemas operativos.",
     "contactInformation": {
       "email": "krojas.sys@example.com",
       "phone": "+506 8888 5566",
@@ -65,18 +65,18 @@
     },
     "workExperience": [
       {
-        "company": "Laboratorio de Computación - ITCR",
+        "company": "Laboratorio de Computacion - ITCR",
         "startDate": "2022-03",
         "endDate": "2023-11",
-        "position": "Asistente de Investigación",
-        "description": "Desarrollo de un simulador web de paginación de memoria para visualizar la gestión de RAM, ayudando a otros estudiantes a comprender conceptos de sistemas operativos."
+        "position": "Asistente de Investigacion",
+        "description": "Desarrollo de un simulador web de paginacion de memoria para visualizar la gestion de RAM, ayudando a otros estudiantes a comprender conceptos de sistemas operativos."
       }
     ],
     "education": [
       {
-        "institution": "Instituto Tecnológico de Costa Rica",
+        "institution": "Instituto Tecnologico de Costa Rica",
         "degree": "Licenciatura",
-        "title": "Ingeniería en Computación",
+        "title": "Ingenieria en Computacion",
         "startDate": "2018",
         "endDate": "2023"
       }
@@ -85,7 +85,7 @@
   },
   {
     "name": "Daniela Mora",
-    "introduction": "Backend Developer Junior. Me especializo en la creación de APIs RESTful eficientes utilizando Node.js y bases de datos NoSQL. Enfocada en escribir código limpio y bien documentado.",
+    "introduction": "Backend Developer Junior. Me especializo en la creacion de APIs RESTful eficientes utilizando Node.js y bases de datos NoSQL. Enfocada en escribir codigo limpio y bien documentado.",
     "contactInformation": {
       "email": "dmora.backend@example.com",
       "phone": "+506 8888 7788",
@@ -97,13 +97,13 @@
         "startDate": "2023-05",
         "endDate": "Present",
         "position": "Desarrolladora Web Independiente",
-        "description": "Creación de un sistema de gestión de inventarios para pequeños comercios utilizando Express.js y MongoDB, implementando autenticación y roles de usuario."
+        "description": "Creacion de un sistema de gestion de inventarios para pequeños comercios utilizando Express.js y MongoDB, implementando autenticacion y roles de usuario."
       }
     ],
     "education": [
       {
         "institution": "Cenfotec",
-        "degree": "Técnico Superior",
+        "degree": "Tecnico Superior",
         "title": "Desarrollo de Software",
         "startDate": "2021",
         "endDate": "2023"
@@ -112,8 +112,8 @@
     "skills": ["javascript", "express", "mongodb", "rest_api", "git", "postman", "solid_principles"]
   },
   {
-    "name": "Fabián Ortiz",
-    "introduction": "Desarrollador Mobile Junior. Entusiasta de las tecnologías multiplataforma para llevar ideas rápidamente al mercado en iOS y Android. Actitud proactiva y excelente jugador de equipo.",
+    "name": "Fabian Ortiz",
+    "introduction": "Desarrollador Mobile Junior. Entusiasta de las tecnologias multiplataforma para llevar ideas rapidamente al mercado en iOS y Android. Actitud proactiva y excelente jugador de equipo.",
     "contactInformation": {
       "email": "fortiz.mobile@example.com",
       "phone": "+506 8888 9900",
@@ -125,14 +125,14 @@
         "startDate": "2023-09",
         "endDate": "Present",
         "position": "Junior Mobile Developer",
-        "description": "Mantenimiento de aplicaciones en React Native, corrección de bugs visuales y consumo de endpoints GraphQL para mostrar catálogos de productos."
+        "description": "Mantenimiento de aplicaciones en React Native, correccion de bugs visuales y consumo de endpoints GraphQL para mostrar catalogos de productos."
       }
     ],
     "education": [
       {
         "institution": "Universidad Latina",
         "degree": "Bachillerato",
-        "title": "Ingeniería de Software",
+        "title": "Ingenieria de Software",
         "startDate": "2019",
         "endDate": "2023"
       }

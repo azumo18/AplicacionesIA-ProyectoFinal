@@ -1,72 +1,37 @@
-const pl = require("tau-prolog");
-const fs = require("fs");
-const path = require("path");
 
-const { asyncTauQuery } = require("../scripts/tau");
+const fs = require("fs");
 
 /**
  * Skills de hechos a reglas
  * @param {json} cv 
- * @returns 
+ * @returns {string} candidateFacts
  */
-const asyncExtractCandidateFacts = async (cv) => {
-  // to_atom
-  const candidateId = cv.name.toLowerCase().replace(/\s+/g, '_');
-  let prologFacts = `\n% --- Hechos dinámicos para ${candidateId} ---\n`;
-  let queries = [];
-
-  cv.skills.forEach(skill => {
-    prologFacts += `has_skill(${candidateId}, ${skill}).\n`;
-    // adicionalmente agregar consultas prolog effective_match_score(Candidate, Skill)
-    queries.push(`effective_match_score(${candidateId}, ${skill}).`);
-  });
-
-  return { candidateId, prologFacts, queries };
+const cvJsonToFacts = async (cv) => {
+  // Suponiendo que se procesan los datos para no tener letras fuera del alfabeto ingles. **
+  if(!cv.name || !cv.skills) {
+    console.error("The fields 'name' and 'skills' are mandatory for each cv in json.");
+  }
+  // `\n% --- Hechos dinamicos para cv de: ${candidateName} ---\n`;
+  const candidateName = cv.name.toLowerCase().replace(/\s+/g, '_'); // Force prolog atom
+  return cv.skills.map(skill => 
+    `\nhas_skill(${candidateName}, ${skill}).`
+  ).join('');
 }
 
 /**
  * extraer por cada candidato
  * @param {string} cvsPath 
- * @returns {{candidateId: string, prologFacts: string | undefined, queries: string[] | undefined}[]} candidates
+ * @returns {candidateFacts: string} candidates
  */
 const asyncExtractAllCandidates = async (cvsPath) => {
-  const cvs = fs.readFileSync(cvsPath, 'utf8');
-  const candidates = [];
+  let cvs = await fs.readFileSync(cvsPath, 'utf8');
+  let allCandidateSkills = "";
+
   for (const cv of JSON.parse(cvs)) {
-    const { candidateId, prologFacts, queries } = await asyncExtractCandidateFacts(cv);
-    candidates.push({ candidateId, prologFacts, queries });
+    allCandidateSkills += await cvJsonToFacts(cv);
   }
-  // validate null fields
-  candidates.forEach(candidate => {
-    if (!candidate.candidateId || !candidate.prologFacts || !candidate.queries) {
-      throw new Error(`In asyncExtractAllCandidates: Invalid candidate ${candidate.candidateId}`);
-    }
-  });
 
-  return candidates;
+  return allCandidateSkills;
 }
 
-/**
- * evalua la lista de candidatos
- * @param {{candidateId: string, prologFacts: string | undefined, queries: string[] | undefined }[]} candidates
- * @returns {{candidateId: string, result: string | undefined}[]} results
- */
-const asyncEvaluateCandidates = async (candidates) => {
-  /*
-  ToDo: falla en el path de prolog, adentro de asyncTauQuery
-
-  const results = [];
-  for (const candidate of candidates) {
-    const { candidateId, prologFacts, queries } = candidate;
-
-    for (const query of queries) {
-      const result = await asyncTauQuery(path.join(__dirname, '..', 'prolog'), prologFacts, query);
-      //console.log("resullltt ", result)
-      results.push({ candidateId, query, result });
-    }
-  }
-  return results;
-  */
-}
-
-module.exports = { asyncExtractAllCandidates }; //asyncEvaluateCandidates
+module.exports = { asyncExtractAllCandidates };
