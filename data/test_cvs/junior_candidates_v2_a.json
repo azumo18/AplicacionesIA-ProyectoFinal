@@ -1,0 +1,534 @@
+[
+  {
+    "name": "Juan Pérez junior0",
+    "introduction": "DevOps Engineer Junior con interés en aprender y crecer en el área de devops engineer.",
+    "contactInformation": {
+      "email": "juan.pérez.junior0@example.com",
+      "phone": "+506 8888 3773",
+      "website": "github.com/juan.pérez.junior0"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "DevOps Engineer",
+        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "javascript",
+      "typescript",
+      "angular",
+      "react",
+      "html_css",
+      "git",
+      "rest_api"
+    ]
+  },
+  {
+    "name": "María López junior1",
+    "introduction": "AI Engineer Junior con interés en aprender y crecer en el área de ai engineer.",
+    "contactInformation": {
+      "email": "maría.lópez.junior1@example.com",
+      "phone": "+506 8888 9092",
+      "website": "github.com/maría.lópez.junior1"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "AI Engineer",
+        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "aws",
+      "terraform",
+      "docker",
+      "kubernetes",
+      "github_actions",
+      "linux_administration"
+    ]
+  },
+  {
+    "name": "Carlos Rodríguez junior2",
+    "introduction": "DevOps Engineer Junior con interés en aprender y crecer en el área de devops engineer.",
+    "contactInformation": {
+      "email": "carlos.rodríguez.junior2@example.com",
+      "phone": "+506 8888 4779",
+      "website": "github.com/carlos.rodríguez.junior2"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "DevOps Engineer",
+        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "javascript",
+      "typescript",
+      "angular",
+      "react",
+      "html_css",
+      "git",
+      "rest_api"
+    ]
+  },
+  {
+    "name": "Ana Martínez junior3",
+    "introduction": "Frontend Developer Junior con interés en aprender y crecer en el área de frontend developer.",
+    "contactInformation": {
+      "email": "ana.martínez.junior3@example.com",
+      "phone": "+506 8888 3660",
+      "website": "github.com/ana.martínez.junior3"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "Frontend Developer",
+        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "javascript",
+      "typescript",
+      "angular",
+      "react",
+      "html_css",
+      "git",
+      "rest_api"
+    ]
+  },
+  {
+    "name": "Luis Fernández junior4",
+    "introduction": "Backend Developer Junior con interés en aprender y crecer en el área de backend developer.",
+    "contactInformation": {
+      "email": "luis.fernández.junior4@example.com",
+      "phone": "+506 8888 4718",
+      "website": "github.com/luis.fernández.junior4"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "Backend Developer",
+        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "aws",
+      "terraform",
+      "docker",
+      "kubernetes",
+      "github_actions",
+      "linux_administration"
+    ]
+  },
+  {
+    "name": "Sofía Herrera junior5",
+    "introduction": "Backend Developer Junior con interés en aprender y crecer en el área de backend developer.",
+    "contactInformation": {
+      "email": "sofía.herrera.junior5@example.com",
+      "phone": "+506 8888 8074",
+      "website": "github.com/sofía.herrera.junior5"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "Backend Developer",
+        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "javascript",
+      "typescript",
+      "angular",
+      "react",
+      "html_css",
+      "git",
+      "rest_api"
+    ]
+  },
+  {
+    "name": "Diego Morales junior6",
+    "introduction": "Backend Developer Junior con interés en aprender y crecer en el área de backend developer.",
+    "contactInformation": {
+      "email": "diego.morales.junior6@example.com",
+      "phone": "+506 8888 6387",
+      "website": "github.com/diego.morales.junior6"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "Backend Developer",
+        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "python",
+      "machine_learning_fundamentals",
+      "rag",
+      "langchain",
+      "vector_databases",
+      "aws"
+    ]
+  },
+  {
+    "name": "Valentina Rojas junior7",
+    "introduction": "Backend Developer Junior con interés en aprender y crecer en el área de backend developer.",
+    "contactInformation": {
+      "email": "valentina.rojas.junior7@example.com",
+      "phone": "+506 8888 5328",
+      "website": "github.com/valentina.rojas.junior7"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "Backend Developer",
+        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "aws",
+      "terraform",
+      "docker",
+      "kubernetes",
+      "github_actions",
+      "linux_administration"
+    ]
+  },
+  {
+    "name": "Gabriel Castillo junior8",
+    "introduction": "Frontend Developer Junior con interés en aprender y crecer en el área de frontend developer.",
+    "contactInformation": {
+      "email": "gabriel.castillo.junior8@example.com",
+      "phone": "+506 8888 5237",
+      "website": "github.com/gabriel.castillo.junior8"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "Frontend Developer",
+        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "aws",
+      "terraform",
+      "docker",
+      "kubernetes",
+      "github_actions",
+      "linux_administration"
+    ]
+  },
+  {
+    "name": "Daniela Vargas junior9",
+    "introduction": "DevOps Engineer Junior con interés en aprender y crecer en el área de devops engineer.",
+    "contactInformation": {
+      "email": "daniela.vargas.junior9@example.com",
+      "phone": "+506 8888 9846",
+      "website": "github.com/daniela.vargas.junior9"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "DevOps Engineer",
+        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "python",
+      "machine_learning_fundamentals",
+      "rag",
+      "langchain",
+      "vector_databases",
+      "aws"
+    ]
+  },
+  {
+    "name": "José Ramírez junior10",
+    "introduction": "Backend Developer Junior con interés en aprender y crecer en el área de backend developer.",
+    "contactInformation": {
+      "email": "josé.ramírez.junior10@example.com",
+      "phone": "+506 8888 5292",
+      "website": "github.com/josé.ramírez.junior10"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "Backend Developer",
+        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "javascript",
+      "typescript",
+      "angular",
+      "react",
+      "html_css",
+      "git",
+      "rest_api"
+    ]
+  },
+  {
+    "name": "Camila Torres junior11",
+    "introduction": "AI Engineer Junior con interés en aprender y crecer en el área de ai engineer.",
+    "contactInformation": {
+      "email": "camila.torres.junior11@example.com",
+      "phone": "+506 8888 1008",
+      "website": "github.com/camila.torres.junior11"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "AI Engineer",
+        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "python",
+      "machine_learning_fundamentals",
+      "rag",
+      "langchain",
+      "vector_databases",
+      "aws"
+    ]
+  },
+  {
+    "name": "Andrés Gómez junior12",
+    "introduction": "Backend Developer Junior con interés en aprender y crecer en el área de backend developer.",
+    "contactInformation": {
+      "email": "andrés.gómez.junior12@example.com",
+      "phone": "+506 8888 8379",
+      "website": "github.com/andrés.gómez.junior12"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "Backend Developer",
+        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "aws",
+      "terraform",
+      "docker",
+      "kubernetes",
+      "github_actions",
+      "linux_administration"
+    ]
+  },
+  {
+    "name": "Paula Sánchez junior13",
+    "introduction": "Frontend Developer Junior con interés en aprender y crecer en el área de frontend developer.",
+    "contactInformation": {
+      "email": "paula.sánchez.junior13@example.com",
+      "phone": "+506 8888 8189",
+      "website": "github.com/paula.sánchez.junior13"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "Frontend Developer",
+        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "nodejs",
+      "express",
+      "postgresql",
+      "mongodb",
+      "rest_api",
+      "docker",
+      "git"
+    ]
+  },
+  {
+    "name": "Ricardo Castro junior14",
+    "introduction": "AI Engineer Junior con interés en aprender y crecer en el área de ai engineer.",
+    "contactInformation": {
+      "email": "ricardo.castro.junior14@example.com",
+      "phone": "+506 8888 9982",
+      "website": "github.com/ricardo.castro.junior14"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "AI Engineer",
+        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "javascript",
+      "typescript",
+      "angular",
+      "react",
+      "html_css",
+      "git",
+      "rest_api"
+    ]
+  }
+]

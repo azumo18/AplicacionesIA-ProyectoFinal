@@ -1,0 +1,536 @@
+[
+  {
+    "name": "Juan Pérez mid0",
+    "introduction": "Backend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "contactInformation": {
+      "email": "juan.pérez.mid0@example.com",
+      "phone": "+506 8888 5904",
+      "website": "github.com/juan.pérez.mid0"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "Backend Developer",
+        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "nodejs",
+      "express",
+      "postgresql",
+      "mongodb",
+      "rest_api",
+      "docker",
+      "git"
+    ]
+  },
+  {
+    "name": "María López mid1",
+    "introduction": "Backend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "contactInformation": {
+      "email": "maría.lópez.mid1@example.com",
+      "phone": "+506 8888 1449",
+      "website": "github.com/maría.lópez.mid1"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "Backend Developer",
+        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "javascript",
+      "typescript",
+      "angular",
+      "react",
+      "html_css",
+      "git",
+      "rest_api"
+    ]
+  },
+  {
+    "name": "Carlos Rodríguez mid2",
+    "introduction": "AI Engineer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "contactInformation": {
+      "email": "carlos.rodríguez.mid2@example.com",
+      "phone": "+506 8888 2285",
+      "website": "github.com/carlos.rodríguez.mid2"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "AI Engineer",
+        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "nodejs",
+      "express",
+      "postgresql",
+      "mongodb",
+      "rest_api",
+      "docker",
+      "git"
+    ]
+  },
+  {
+    "name": "Ana Martínez mid3",
+    "introduction": "Frontend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "contactInformation": {
+      "email": "ana.martínez.mid3@example.com",
+      "phone": "+506 8888 7215",
+      "website": "github.com/ana.martínez.mid3"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "Frontend Developer",
+        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "aws",
+      "terraform",
+      "docker",
+      "kubernetes",
+      "github_actions",
+      "linux_administration"
+    ]
+  },
+  {
+    "name": "Luis Fernández mid4",
+    "introduction": "DevOps Engineer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "contactInformation": {
+      "email": "luis.fernández.mid4@example.com",
+      "phone": "+506 8888 1904",
+      "website": "github.com/luis.fernández.mid4"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "DevOps Engineer",
+        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "aws",
+      "terraform",
+      "docker",
+      "kubernetes",
+      "github_actions",
+      "linux_administration"
+    ]
+  },
+  {
+    "name": "Sofía Herrera mid5",
+    "introduction": "AI Engineer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "contactInformation": {
+      "email": "sofía.herrera.mid5@example.com",
+      "phone": "+506 8888 8873",
+      "website": "github.com/sofía.herrera.mid5"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "AI Engineer",
+        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "javascript",
+      "typescript",
+      "angular",
+      "react",
+      "html_css",
+      "git",
+      "rest_api"
+    ]
+  },
+  {
+    "name": "Diego Morales mid6",
+    "introduction": "AI Engineer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "contactInformation": {
+      "email": "diego.morales.mid6@example.com",
+      "phone": "+506 8888 2411",
+      "website": "github.com/diego.morales.mid6"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "AI Engineer",
+        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "nodejs",
+      "express",
+      "postgresql",
+      "mongodb",
+      "rest_api",
+      "docker",
+      "git"
+    ]
+  },
+  {
+    "name": "Valentina Rojas mid7",
+    "introduction": "DevOps Engineer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "contactInformation": {
+      "email": "valentina.rojas.mid7@example.com",
+      "phone": "+506 8888 4703",
+      "website": "github.com/valentina.rojas.mid7"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "DevOps Engineer",
+        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "python",
+      "machine_learning_fundamentals",
+      "rag",
+      "langchain",
+      "vector_databases",
+      "aws"
+    ]
+  },
+  {
+    "name": "Gabriel Castillo mid8",
+    "introduction": "Backend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "contactInformation": {
+      "email": "gabriel.castillo.mid8@example.com",
+      "phone": "+506 8888 6484",
+      "website": "github.com/gabriel.castillo.mid8"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "Backend Developer",
+        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "aws",
+      "terraform",
+      "docker",
+      "kubernetes",
+      "github_actions",
+      "linux_administration"
+    ]
+  },
+  {
+    "name": "Daniela Vargas mid9",
+    "introduction": "Backend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "contactInformation": {
+      "email": "daniela.vargas.mid9@example.com",
+      "phone": "+506 8888 1550",
+      "website": "github.com/daniela.vargas.mid9"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "Backend Developer",
+        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "nodejs",
+      "express",
+      "postgresql",
+      "mongodb",
+      "rest_api",
+      "docker",
+      "git"
+    ]
+  },
+  {
+    "name": "José Ramírez mid10",
+    "introduction": "Frontend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "contactInformation": {
+      "email": "josé.ramírez.mid10@example.com",
+      "phone": "+506 8888 4412",
+      "website": "github.com/josé.ramírez.mid10"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "Frontend Developer",
+        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "aws",
+      "terraform",
+      "docker",
+      "kubernetes",
+      "github_actions",
+      "linux_administration"
+    ]
+  },
+  {
+    "name": "Camila Torres mid11",
+    "introduction": "AI Engineer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "contactInformation": {
+      "email": "camila.torres.mid11@example.com",
+      "phone": "+506 8888 1851",
+      "website": "github.com/camila.torres.mid11"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "AI Engineer",
+        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "nodejs",
+      "express",
+      "postgresql",
+      "mongodb",
+      "rest_api",
+      "docker",
+      "git"
+    ]
+  },
+  {
+    "name": "Andrés Gómez mid12",
+    "introduction": "Backend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "contactInformation": {
+      "email": "andrés.gómez.mid12@example.com",
+      "phone": "+506 8888 5968",
+      "website": "github.com/andrés.gómez.mid12"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "Backend Developer",
+        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "javascript",
+      "typescript",
+      "angular",
+      "react",
+      "html_css",
+      "git",
+      "rest_api"
+    ]
+  },
+  {
+    "name": "Paula Sánchez mid13",
+    "introduction": "Frontend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "contactInformation": {
+      "email": "paula.sánchez.mid13@example.com",
+      "phone": "+506 8888 8011",
+      "website": "github.com/paula.sánchez.mid13"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "Frontend Developer",
+        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "python",
+      "machine_learning_fundamentals",
+      "rag",
+      "langchain",
+      "vector_databases",
+      "aws"
+    ]
+  },
+  {
+    "name": "Ricardo Castro mid14",
+    "introduction": "Frontend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "contactInformation": {
+      "email": "ricardo.castro.mid14@example.com",
+      "phone": "+506 8888 1968",
+      "website": "github.com/ricardo.castro.mid14"
+    },
+    "workExperience": [
+      {
+        "company": "Tech Company CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "Frontend Developer",
+        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologías modernas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Bachillerato",
+        "title": "Ingeniería en Sistemas",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "nodejs",
+      "express",
+      "postgresql",
+      "mongodb",
+      "rest_api",
+      "docker",
+      "git"
+    ]
+  }
+]
