@@ -1184,11 +1184,11 @@ match_strength(weak_partial_match).
 match_strength(no_match).
 
 % Ordering: higher is better
-match_strength_rank(exact_match, 5).
-match_strength_rank(strong_partial_match, 4).
-match_strength_rank(moderate_partial_match, 3).
-match_strength_rank(weak_partial_match, 2).
-match_strength_rank(no_match, 1).
+match_strength_rank(exact_match, 4).
+match_strength_rank(strong_partial_match, 3).
+match_strength_rank(moderate_partial_match, 2).
+match_strength_rank(weak_partial_match, 1).
+match_strength_rank(no_match, 0).
 
 stronger_match(A, B) :-
     match_strength_rank(A, RA),

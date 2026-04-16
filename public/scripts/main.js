@@ -196,7 +196,7 @@ const submit = async () => {
     let dynamicRules = selectedITCategories.tabs.map(tab => tab.categories.map(category => category.elements.map(element => `required_skill(${element.name}).`).join('\n')).join('\n')).join('\n');
     dynamicRules += candidateFacts;
 
-    const query = `top_applicants_percent(3, TopList).`;
+    const query = `top_applicants_breakdown(3, TopList).`;
 
     const body = {
         dynamicRules,
