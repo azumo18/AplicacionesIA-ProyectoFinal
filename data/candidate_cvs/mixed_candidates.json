@@ -1,0 +1,370 @@
+[
+  {
+    "name": "Sofia Castro",
+    "introduction": "Desarrolladora Fullstack con enfoque en arquitecturas escalables y ecosistema JavaScript/TypeScript. Experiencia en creacion de interfaces reactivas y APIs robustas.",
+    "contactInformation": {
+      "email": "sofia.castro@example.com",
+      "phone": "+506 8888 1111",
+      "website": "github.com/sofiacastro"
+    },
+    "workExperience": [
+      {
+        "company": "TechNova Solutions",
+        "startDate": "2021-03",
+        "endDate": "Present",
+        "position": "Senior Fullstack Engineer",
+        "description": "Desarrollo de paneles administrativos y sistemas de reclutamiento. Creacion de APIs REST y migracion de servicios a la nube."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad Nacional",
+        "degree": "Bachillerato",
+        "title": "Ingenieria en Sistemas",
+        "startDate": "2016",
+        "endDate": "2020"
+      }
+    ],
+    "skills": [
+      "javascript",
+      "typescript",
+      "angular",
+      "express",
+      "postgresql",
+      "docker",
+      "agile_mindset",
+      "scrum"
+    ]
+  },
+  {
+    "name": "Carlos Mendez",
+    "introduction": "Ingeniero Backend especializado en ecosistema Java y microservicios. Pasion por el rendimiento del sistema y bases de datos relacionales.",
+    "contactInformation": {
+      "email": "cmendez.dev@example.com",
+      "phone": "+506 8888 2222",
+      "website": "linkedin.com/in/cmendez"
+    },
+    "workExperience": [
+      {
+        "company": "Fintech GlobalCorp",
+        "startDate": "2018-06",
+        "endDate": "2023-12",
+        "position": "Backend Developer",
+        "description": "Mantenimiento de core bancario, integracion de pasarelas de pago y optimizacion de consultas SQL complejas."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Instituto Tecnologico",
+        "degree": "Licenciatura",
+        "title": "Ingenieria de Software",
+        "startDate": "2013",
+        "endDate": "2018"
+      }
+    ],
+    "skills": [
+      "java",
+      "spring_boot",
+      "sql",
+      "oracle_db",
+      "microservices",
+      "apache_kafka",
+      "solid_principles",
+      "team_management"
+    ]
+  },
+  {
+    "name": "Elena Rojas",
+    "introduction": "Especialista en Inteligencia Artificial y Datos. Experiencia integrando modelos de lenguaje (LLMs) y pipelines de datos para analisis financiero.",
+    "contactInformation": {
+      "email": "elena.data@example.com",
+      "phone": "+506 8888 3333",
+      "website": "kaggle.com/elenar"
+    },
+    "workExperience": [
+      {
+        "company": "DataInsights CR",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "position": "AI / ML Engineer",
+        "description": "Implementacion de sistemas RAG para busqueda documental interna y creacion de modelos predictivos."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Maestria",
+        "title": "Ciencias de la Computacion con enfasis en IA",
+        "startDate": "2019",
+        "endDate": "2021"
+      }
+    ],
+    "skills": [
+      "python",
+      "machine_learning_fundamentals",
+      "rag",
+      "tensorflow",
+      "langchain",
+      "vector_databases",
+      "mongodb",
+      "aws"
+    ]
+  },
+  {
+    "name": "Diego Navarro",
+    "introduction": "Ingeniero DevOps con fuerte enfoque en automatizacion, CI/CD y despliegues en la nube usando infraestructura como codigo.",
+    "contactInformation": {
+      "email": "diego.ops@example.com",
+      "phone": "+506 8888 4444",
+      "website": "github.com/diegodevops"
+    },
+    "workExperience": [
+      {
+        "company": "CloudTech Services",
+        "startDate": "2019-09",
+        "endDate": "Present",
+        "position": "DevOps Engineer",
+        "description": "Administracion de clusters de Kubernetes, creacion de pipelines en GitHub Actions y gestion de infraestructura en AWS."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad Latina",
+        "degree": "Bachillerato",
+        "title": "Ingenieria en Redes y Telecomunicaciones",
+        "startDate": "2015",
+        "endDate": "2019"
+      }
+    ],
+    "skills": [
+      "aws",
+      "docker",
+      "kubernetes",
+      "terraform",
+      "github_actions",
+      "linux_administration",
+      "shell_scripting",
+      "prometheus",
+      "grafana"
+    ]
+  },
+  {
+    "name": "Laura Brenes",
+    "introduction": "Desarrolladora Mobile multiplataforma. Creacion de experiencias de usuario fluidas para aplicaciones iOS y Android.",
+    "contactInformation": {
+      "email": "laura.mobile@example.com",
+      "phone": "+506 8888 5555",
+      "website": "behance.net/laurab"
+    },
+    "workExperience": [
+      {
+        "company": "AppStudio CR",
+        "startDate": "2020-02",
+        "endDate": "2024-01",
+        "position": "Mobile Developer",
+        "description": "Desarrollo desde cero de aplicaciones de delivery y fitness utilizando Flutter y consumo de APIs REST."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Cenfotec",
+        "degree": "Tecnico Superior",
+        "title": "Desarrollo de Aplicaciones Moviles",
+        "startDate": "2018",
+        "endDate": "2020"
+      }
+    ],
+    "skills": [
+      "flutter",
+      "android_native",
+      "ios_native",
+      "rest_api",
+      "sqlite",
+      "agile_mindset",
+      "jira"
+    ]
+  },
+  {
+    "name": "Andres Vargas",
+    "introduction": "Ingeniero de Software Senior especializado en arquitecturas de alto rendimiento, C++ y bases de datos NoSQL.",
+    "contactInformation": {
+      "email": "avargas.sys@example.com",
+      "phone": "+506 8888 6666",
+      "website": ""
+    },
+    "workExperience": [
+      {
+        "company": "CoreSystems",
+        "startDate": "2015-05",
+        "endDate": "Present",
+        "position": "Lead Systems Engineer",
+        "description": "Diseno de sistemas embebidos, IoT y optimizacion de latencia en procesamiento de datos."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Instituto Tecnologico",
+        "degree": "Licenciatura",
+        "title": "Ingenieria en Computacion",
+        "startDate": "2010",
+        "endDate": "2015"
+      }
+    ],
+    "skills": [
+      "cpp",
+      "c",
+      "embedded_systems",
+      "iot_fundamentals",
+      "redis",
+      "linux_administration",
+      "technical_leadership",
+      "mentoring"
+    ]
+  },
+  {
+    "name": "Valeria Montero",
+    "introduction": "Ingeniera de Seguridad (DevSecOps). Enfocada en proteger infraestructuras cloud y realizar pruebas de penetracion en aplicaciones web.",
+    "contactInformation": {
+      "email": "vmontero.sec@example.com",
+      "phone": "+506 8888 7777",
+      "website": "linkedin.com/in/valsec"
+    },
+    "workExperience": [
+      {
+        "company": "CyberDefense Latam",
+        "startDate": "2021-08",
+        "endDate": "Present",
+        "position": "Security Analyst",
+        "description": "Auditorias de seguridad, analisis de vulnerabilidades y capacitaciones sobre practicas OWASP."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad Cenfotec",
+        "degree": "Maestria",
+        "title": "Ciberseguridad",
+        "startDate": "2019",
+        "endDate": "2021"
+      }
+    ],
+    "skills": [
+      "devsecops",
+      "application_security",
+      "penetration_testing",
+      "owasp_knowledge",
+      "python",
+      "bash",
+      "aws",
+      "network_security"
+    ]
+  },
+  {
+    "name": "Javier Solis",
+    "introduction": "Desarrollador Frontend enfocado en interfaces interactivas y experiencia de usuario. Creador de componentes reutilizables y sistemas de diseno.",
+    "contactInformation": {
+      "email": "javier.ui@example.com",
+      "phone": "+506 8888 8888",
+      "website": "javiersolis.dev"
+    },
+    "workExperience": [
+      {
+        "company": "Creative Web Agency",
+        "startDate": "2022-04",
+        "endDate": "Present",
+        "position": "Frontend Developer",
+        "description": "Maquetado avanzado, integracion con GraphQL y optimizacion de metricas de rendimiento web (Core Web Vitals)."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad Latina",
+        "degree": "Bachillerato",
+        "title": "Diseno y Desarrollo Web",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "skills": [
+      "html_css",
+      "react",
+      "nextjs",
+      "graphql",
+      "javascript",
+      "figma",
+      "agile_mindset"
+    ]
+  },
+  {
+    "name": "Monica Alvarado",
+    "introduction": "Arquitecta de Software / Cloud Architect. Experiencia en diseno de soluciones empresariales utilizando metodologias de Domain-Driven Design.",
+    "contactInformation": {
+      "email": "malvarado.arch@example.com",
+      "phone": "+506 8888 9999",
+      "website": "linkedin.com/in/monica-arch"
+    },
+    "workExperience": [
+      {
+        "company": "Enterprise Solutions CR",
+        "startDate": "2017-01",
+        "endDate": "Present",
+        "position": "Cloud Solutions Architect",
+        "description": "Liderazgo en la transicion de arquitecturas monoliticas a microservicios en Azure y AWS."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad de Costa Rica",
+        "degree": "Licenciatura",
+        "title": "Ciencias de la Computacion",
+        "startDate": "2011",
+        "endDate": "2016"
+      }
+    ],
+    "skills": [
+      "azure",
+      "aws",
+      "domain_driven_design",
+      "microservices",
+      "csharp",
+      "dotnet_core",
+      "serverless_architecture",
+      "stakeholder_communication"
+    ]
+  },
+  {
+    "name": "Roberto Jimenez",
+    "introduction": "Desarrollador Junior Fullstack. Altamente motivado por aprender nuevas tecnologias. Fuerte base algoritmica y de estructuras de datos.",
+    "contactInformation": {
+      "email": "roberto.junior@example.com",
+      "phone": "+506 8888 0000",
+      "website": "github.com/robertoj"
+    },
+    "workExperience": [
+      {
+        "company": "Startup Hub",
+        "startDate": "2023-06",
+        "endDate": "2024-02",
+        "position": "Software Intern",
+        "description": "Apoyo en la creacion de APIs en Python y maquetacion de vistas en Vue.js."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Colegio Vocacional",
+        "degree": "Tecnico Medio",
+        "title": "Informatica en Desarrollo de Software",
+        "startDate": "2020",
+        "endDate": "2023"
+      }
+    ],
+    "skills": [
+      "python",
+      "django",
+      "vue",
+      "javascript",
+      "mysql",
+      "git",
+      "rest_api"
+    ]
+  }
+]

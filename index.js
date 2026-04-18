@@ -5,6 +5,7 @@ const { asyncExtractAllCandidates } = require('./public/scripts/candidate-facts'
 
 const fs = require('fs');
 const path = require('path');
+const config = require('./config.json');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -38,10 +39,9 @@ app.post('/query', async (req, res) => {
   }
 });
 
-app.get('/candidates', async (req, res) => {
+app.get('/extract-candidates', async (req, res) => {
   try {
-    const { resumesFileName } = req.query;
-    const response = await asyncExtractAllCandidates(path.join(__dirname, 'data', 'test_cvs', resumesFileName));
+    const response = await asyncExtractAllCandidates(path.join(__dirname, config.cvsFolder));
     res.json(response);
   } catch (err) {
     res.status(400).json({ error: err.message });

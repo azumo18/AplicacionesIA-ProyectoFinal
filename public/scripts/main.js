@@ -27,18 +27,18 @@ window.addEventListener('load', async () => {
                     <div class="card-body">
                         <dl>
                             ${tab.categories.map((category, categoryIndex) => {
-                                category.index = categoryIndex;
-                                return `
+            category.index = categoryIndex;
+            return `
                                     <dt style="font-weight:bold;">${category.title}</dt>
                                     ${category.elements.map((element, elementIndex) => {
-                                        element.index = elementIndex;
-                                        return `
+                element.index = elementIndex;
+                return `
                                             <div class="conceptContainer">
                                                 <input class="form-check-input" type="checkbox" id="concept_${tabIndex}_${categoryIndex}_${elementIndex}">
                                                 <dd>${formatConcept(element)}</dd>
                                             </div>`;
-                                    }).join('')}`;
-                            }).join('')}
+            }).join('')}`;
+        }).join('')}
                         </dl>
                     </div>
                 </div>
@@ -50,10 +50,10 @@ window.addEventListener('load', async () => {
 
     document.querySelector('#searchInput').addEventListener('input', search);
     document.querySelector('#submitButton').addEventListener('click', submit);
-    
+
     window.addEventListener('scroll', () => {
         console.log(document.documentElement.scrollTop);
-        if(document.documentElement.scrollTop > 120) document.querySelector('#backToTopButton').style.display = 'block';
+        if (document.documentElement.scrollTop > 120) document.querySelector('#backToTopButton').style.display = 'block';
         else document.querySelector('#backToTopButton').style.display = 'none';
     });
     document.querySelector('#backToTopButton').addEventListener('click', () => document.documentElement.scrollTop = 0);
@@ -61,8 +61,7 @@ window.addEventListener('load', async () => {
     document.querySelector('.modalContainer .btn-close').addEventListener('click', () => document.querySelector('.modalContainer').style.visibility = 'hidden');
 
     //#region Load candidates
-    const resumesFileName = 'junior_candidates.json';
-    const candidates = await fetch(`/candidates?resumesFileName=${resumesFileName}`, {
+    const candidates = await fetch(`/extract-candidates`, {
         method: 'GET',
         headers: { 'Content-Type': 'application/json' }
     });
@@ -85,7 +84,7 @@ const search = (event) => {
         const matchingCategories = tab.categories.filter(category => {
             const matchingElements = category.elements.filter(element => {
                 const matchingNames = [element.name, ...element.aliases].filter(name => name.replaceAll('_', ' ').includes(query));
-                if(matchingNames.length > 0) element.match = matchingNames[0];
+                if (matchingNames.length > 0) element.match = matchingNames[0];
                 return matchingNames.length > 0;
             });
             category.elements = matchingElements;
@@ -118,22 +117,22 @@ const search = (event) => {
 const formatConcept = (element) => {
     let display = element.name;
 
-    if(element.mergedDisplay && element.aliases.length > 0)
+    if (element.mergedDisplay && element.aliases.length > 0)
         display = `${element.name} (${element.aliases[0]})`
-    else if(element.aliases.length > 0 && !element.preventAliasDisplay)
+    else if (element.aliases.length > 0 && !element.preventAliasDisplay)
         display = element.aliases[0];
 
-    if(element.match && !display.includes(element.match)) display += ` (${element.match})`;
+    if (element.match && !display.includes(element.match)) display += ` (${element.match})`;
 
     return display.replaceAll('_', ' ');
 }
 
 const hintBoxClick = (tabIndex, categoryIndex, elementIndex) => {
     const tab = document.querySelector(`a[href="#collapse_${tabIndex}"]`);
-    if(tab && tab.classList.contains('collapsed')) tab.click();
+    if (tab && tab.classList.contains('collapsed')) tab.click();
 
     const concept = document.querySelector(`#concept_${tabIndex}_${categoryIndex}_${elementIndex}`);
-    if(concept) {
+    if (concept) {
         concept.scrollIntoView();
         concept.focus();
     }
@@ -151,25 +150,25 @@ const checkboxClick = (event) => {
     const fullCategory = fullTab.categories.find(category => category.index === selectedItemIndexes.categoryIndex);
     const fullElement = fullCategory.elements.find(element => element.index === selectedItemIndexes.elementIndex);
 
-    if(event.target.checked === true){
+    if (event.target.checked === true) {
         let tab = selectedITCategories.tabs.find(tab => tab.index === selectedItemIndexes.tabIndex);
-        if(!tab) selectedITCategories.tabs.push({ 
-            index: fullTab.index, 
+        if (!tab) selectedITCategories.tabs.push({
+            index: fullTab.index,
             title: fullTab.title,
-            categories: [], 
+            categories: [],
         });
         tab = selectedITCategories.tabs.find(tab => tab.index === selectedItemIndexes.tabIndex);
 
         let category = tab.categories.find(category => category.index === selectedItemIndexes.categoryIndex);
-        if(!category) tab.categories.push({
+        if (!category) tab.categories.push({
             index: fullCategory.index,
             title: fullCategory.title,
             elements: [],
         });
         category = tab.categories.find(category => category.index === selectedItemIndexes.categoryIndex);
 
-        category.elements.push({...fullElement});
-    }else{
+        category.elements.push({ ...fullElement });
+    } else {
         let tab = selectedITCategories.tabs.find(tab => tab.index === selectedItemIndexes.tabIndex);
         let category = tab.categories.find(category => category.index === selectedItemIndexes.categoryIndex);
 
@@ -188,7 +187,7 @@ const checkboxClick = (event) => {
 };
 
 const submit = async () => {
-    if(selectedITCategories.tabs.length == 0) {
+    if (selectedITCategories.tabs.length == 0) {
         alert('Must select at least 1 item.');
         return;
     }

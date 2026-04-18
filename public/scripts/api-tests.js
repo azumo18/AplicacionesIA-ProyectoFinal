@@ -4,8 +4,7 @@ window.addEventListener('load', () => {
         const query = document.querySelector('#queryContainer').value;
 
         //#region Load candidates
-        const resumesFileName = 'junior_candidates.json';
-        const candidates = await fetch(`/candidates?resumesFileName=${resumesFileName}`, {
+        const candidates = await fetch('/extract-candidates', {
             method: 'GET',
             headers: { 'Content-Type': 'application/json' }
         });
@@ -65,8 +64,7 @@ window.addEventListener('load', () => {
     // un boton que llame a la api candidates y 
     // evalua cada candidato de la lista de candidatos
     document.querySelector('#postCandidateFactsButton').addEventListener('click', async () => {
-        const resumesFileName = 'junior_candidates.json';
-        const candidates = await fetch(`/candidates?resumesFileName=${resumesFileName}`, {
+        const candidates = await fetch('/extract-candidates', {
             method: 'GET',
             headers: { 'Content-Type': 'application/json' }
         });
