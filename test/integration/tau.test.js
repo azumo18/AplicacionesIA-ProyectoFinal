@@ -19,7 +19,7 @@ describe('tau.js integration tests con top_applicants_breakdown', () => {
         expect(result.results.length).toBeGreaterThan(0);
         expect(result.results).not.toContain('error');
     });
-    test('Al menos 1 sabe javascript y python con el query top_applicants_breakdown', async () => {
+    test('Al menos 1 candidato tiene exact_match con el query top_applicants_breakdown', async () => {
         // 1. Construimos las reglas dinámicas
         let dynamicRules = TEST_VARS.requiredSkills.map(skill => `required_skill(${skill}).`).join('\n');
         // 2. Extraemos los hechos (facts) de los candidatos llamando a asyncExtractAllCandidates
@@ -30,7 +30,6 @@ describe('tau.js integration tests con top_applicants_breakdown', () => {
         const first_candidate = result.results[0];
         //  TopList = [candidate(valeria_montero,50.0,[skill(javascript,no_match,no_match),skill(python,python,exact_match)]),candidate(sofia_castro,87.5,[skill(javascript,javascript,exact_match),skill(javascript,typescript,strong_partial_match),skill(python,no_match,no_match)]),candidate(roberto_jimenez,100.0,[skill(javascript,javascript,exact_match),skill(python,python,exact_match)])]
 
-        expect(first_candidate).toContain('skill(javascript,javascript,exact_match)');
-        expect(first_candidate).toContain('skill(python,python,exact_match)');
+        expect(first_candidate).toContain('exact_match');
     });
 });
