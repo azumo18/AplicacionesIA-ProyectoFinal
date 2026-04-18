@@ -1,11 +1,11 @@
 [
   {
-    "name": "Juan Pérez senior0",
-    "introduction": "Backend Developer Senior con amplia experiencia liderando proyectos y diseñando soluciones escalables.",
+    "name": "Juan Perez senior0b",
+    "introduction": "Backend Developer Senior con amplia experiencia liderando proyectos y disenando soluciones escalables.",
     "contactInformation": {
-      "email": "juan.pérez.senior0@example.com",
+      "email": "juan.perez.senior0b@example.com",
       "phone": "+506 8888 4705",
-      "website": "github.com/juan.pérez.senior0"
+      "website": "github.com/juan.perez.senior0b"
     },
     "workExperience": [
       {
@@ -13,14 +13,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "Backend Developer",
-        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -35,12 +35,12 @@
     ]
   },
   {
-    "name": "María López senior1",
-    "introduction": "AI Engineer Senior con amplia experiencia liderando proyectos y diseñando soluciones escalables.",
+    "name": "Maria Lopez senior1b",
+    "introduction": "AI Engineer Senior con amplia experiencia liderando proyectos y disenando soluciones escalables.",
     "contactInformation": {
-      "email": "maría.lópez.senior1@example.com",
+      "email": "maria.lopez.senior1b@example.com",
       "phone": "+506 8888 8976",
-      "website": "github.com/maría.lópez.senior1"
+      "website": "github.com/maria.lopez.senior1b"
     },
     "workExperience": [
       {
@@ -48,14 +48,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "AI Engineer",
-        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -71,12 +71,12 @@
     ]
   },
   {
-    "name": "Carlos Rodríguez senior2",
-    "introduction": "DevOps Engineer Senior con amplia experiencia liderando proyectos y diseñando soluciones escalables.",
+    "name": "Carlos Rodriguez senior2b",
+    "introduction": "DevOps Engineer Senior con amplia experiencia liderando proyectos y disenando soluciones escalables.",
     "contactInformation": {
-      "email": "carlos.rodríguez.senior2@example.com",
+      "email": "carlos.rodriguez.senior2b@example.com",
       "phone": "+506 8888 9788",
-      "website": "github.com/carlos.rodríguez.senior2"
+      "website": "github.com/carlos.rodriguez.senior2b"
     },
     "workExperience": [
       {
@@ -84,14 +84,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "DevOps Engineer",
-        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -107,12 +107,12 @@
     ]
   },
   {
-    "name": "Ana Martínez senior3",
-    "introduction": "Backend Developer Senior con amplia experiencia liderando proyectos y diseñando soluciones escalables.",
+    "name": "Ana Martinez senior3b",
+    "introduction": "Backend Developer Senior con amplia experiencia liderando proyectos y disenando soluciones escalables.",
     "contactInformation": {
-      "email": "ana.martínez.senior3@example.com",
+      "email": "ana.martinez.senior3b@example.com",
       "phone": "+506 8888 2449",
-      "website": "github.com/ana.martínez.senior3"
+      "website": "github.com/ana.martinez.senior3b"
     },
     "workExperience": [
       {
@@ -120,14 +120,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "Backend Developer",
-        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -143,12 +143,12 @@
     ]
   },
   {
-    "name": "Luis Fernández senior4",
-    "introduction": "DevOps Engineer Senior con amplia experiencia liderando proyectos y diseñando soluciones escalables.",
+    "name": "Luis Fernandez senior4b",
+    "introduction": "DevOps Engineer Senior con amplia experiencia liderando proyectos y disenando soluciones escalables.",
     "contactInformation": {
-      "email": "luis.fernández.senior4@example.com",
+      "email": "luis.fernandez.senior4b@example.com",
       "phone": "+506 8888 7918",
-      "website": "github.com/luis.fernández.senior4"
+      "website": "github.com/luis.fernandez.senior4b"
     },
     "workExperience": [
       {
@@ -156,14 +156,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "DevOps Engineer",
-        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -179,12 +179,12 @@
     ]
   },
   {
-    "name": "Sofía Herrera senior5",
-    "introduction": "AI Engineer Senior con amplia experiencia liderando proyectos y diseñando soluciones escalables.",
+    "name": "Sofia Herrera senior5b",
+    "introduction": "AI Engineer Senior con amplia experiencia liderando proyectos y disenando soluciones escalables.",
     "contactInformation": {
-      "email": "sofía.herrera.senior5@example.com",
+      "email": "sofia.herrera.senior5b@example.com",
       "phone": "+506 8888 8524",
-      "website": "github.com/sofía.herrera.senior5"
+      "website": "github.com/sofia.herrera.senior5b"
     },
     "workExperience": [
       {
@@ -192,14 +192,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "AI Engineer",
-        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -214,12 +214,12 @@
     ]
   },
   {
-    "name": "Diego Morales senior6",
-    "introduction": "Frontend Developer Senior con amplia experiencia liderando proyectos y diseñando soluciones escalables.",
+    "name": "Diego Morales senior6b",
+    "introduction": "Frontend Developer Senior con amplia experiencia liderando proyectos y disenando soluciones escalables.",
     "contactInformation": {
-      "email": "diego.morales.senior6@example.com",
+      "email": "diego.morales.senior6b@example.com",
       "phone": "+506 8888 7955",
-      "website": "github.com/diego.morales.senior6"
+      "website": "github.com/diego.morales.senior6b"
     },
     "workExperience": [
       {
@@ -227,14 +227,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "Frontend Developer",
-        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -249,12 +249,12 @@
     ]
   },
   {
-    "name": "Valentina Rojas senior7",
-    "introduction": "AI Engineer Senior con amplia experiencia liderando proyectos y diseñando soluciones escalables.",
+    "name": "Valentina Rojas senior7b",
+    "introduction": "AI Engineer Senior con amplia experiencia liderando proyectos y disenando soluciones escalables.",
     "contactInformation": {
-      "email": "valentina.rojas.senior7@example.com",
+      "email": "valentina.rojas.senior7b@example.com",
       "phone": "+506 8888 6460",
-      "website": "github.com/valentina.rojas.senior7"
+      "website": "github.com/valentina.rojas.senior7b"
     },
     "workExperience": [
       {
@@ -262,14 +262,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "AI Engineer",
-        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -284,12 +284,12 @@
     ]
   },
   {
-    "name": "Gabriel Castillo senior8",
-    "introduction": "Backend Developer Senior con amplia experiencia liderando proyectos y diseñando soluciones escalables.",
+    "name": "Gabriel Castillo senior8b",
+    "introduction": "Backend Developer Senior con amplia experiencia liderando proyectos y disenando soluciones escalables.",
     "contactInformation": {
-      "email": "gabriel.castillo.senior8@example.com",
+      "email": "gabriel.castillo.senior8b@example.com",
       "phone": "+506 8888 5097",
-      "website": "github.com/gabriel.castillo.senior8"
+      "website": "github.com/gabriel.castillo.senior8b"
     },
     "workExperience": [
       {
@@ -297,14 +297,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "Backend Developer",
-        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -320,12 +320,12 @@
     ]
   },
   {
-    "name": "Daniela Vargas senior9",
-    "introduction": "Frontend Developer Senior con amplia experiencia liderando proyectos y diseñando soluciones escalables.",
+    "name": "Daniela Vargas senior9b",
+    "introduction": "Frontend Developer Senior con amplia experiencia liderando proyectos y disenando soluciones escalables.",
     "contactInformation": {
-      "email": "daniela.vargas.senior9@example.com",
+      "email": "daniela.vargas.senior9b@example.com",
       "phone": "+506 8888 9711",
-      "website": "github.com/daniela.vargas.senior9"
+      "website": "github.com/daniela.vargas.senior9b"
     },
     "workExperience": [
       {
@@ -333,14 +333,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "Frontend Developer",
-        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -356,12 +356,12 @@
     ]
   },
   {
-    "name": "José Ramírez senior10",
-    "introduction": "AI Engineer Senior con amplia experiencia liderando proyectos y diseñando soluciones escalables.",
+    "name": "Jose Ramirez senior10b",
+    "introduction": "AI Engineer Senior con amplia experiencia liderando proyectos y disenando soluciones escalables.",
     "contactInformation": {
-      "email": "josé.ramírez.senior10@example.com",
+      "email": "jose.ramirez.senior10b@example.com",
       "phone": "+506 8888 1062",
-      "website": "github.com/josé.ramírez.senior10"
+      "website": "github.com/jose.ramirez.senior10b"
     },
     "workExperience": [
       {
@@ -369,14 +369,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "AI Engineer",
-        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -392,12 +392,12 @@
     ]
   },
   {
-    "name": "Camila Torres senior11",
-    "introduction": "AI Engineer Senior con amplia experiencia liderando proyectos y diseñando soluciones escalables.",
+    "name": "Camila Torres senior11b",
+    "introduction": "AI Engineer Senior con amplia experiencia liderando proyectos y disenando soluciones escalables.",
     "contactInformation": {
-      "email": "camila.torres.senior11@example.com",
+      "email": "camila.torres.senior11b@example.com",
       "phone": "+506 8888 8819",
-      "website": "github.com/camila.torres.senior11"
+      "website": "github.com/camila.torres.senior11b"
     },
     "workExperience": [
       {
@@ -405,14 +405,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "AI Engineer",
-        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -428,12 +428,12 @@
     ]
   },
   {
-    "name": "Andrés Gómez senior12",
-    "introduction": "Backend Developer Senior con amplia experiencia liderando proyectos y diseñando soluciones escalables.",
+    "name": "Andres Gomez senior12b",
+    "introduction": "Backend Developer Senior con amplia experiencia liderando proyectos y disenando soluciones escalables.",
     "contactInformation": {
-      "email": "andrés.gómez.senior12@example.com",
+      "email": "andres.gomez.senior12b@example.com",
       "phone": "+506 8888 6968",
-      "website": "github.com/andrés.gómez.senior12"
+      "website": "github.com/andres.gomez.senior12b"
     },
     "workExperience": [
       {
@@ -441,14 +441,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "Backend Developer",
-        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -463,12 +463,12 @@
     ]
   },
   {
-    "name": "Paula Sánchez senior13",
-    "introduction": "Frontend Developer Senior con amplia experiencia liderando proyectos y diseñando soluciones escalables.",
+    "name": "Paula Sanchez senior13b",
+    "introduction": "Frontend Developer Senior con amplia experiencia liderando proyectos y disenando soluciones escalables.",
     "contactInformation": {
-      "email": "paula.sánchez.senior13@example.com",
+      "email": "paula.sanchez.senior13b@example.com",
       "phone": "+506 8888 3198",
-      "website": "github.com/paula.sánchez.senior13"
+      "website": "github.com/paula.sanchez.senior13b"
     },
     "workExperience": [
       {
@@ -476,14 +476,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "Frontend Developer",
-        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -499,12 +499,12 @@
     ]
   },
   {
-    "name": "Ricardo Castro senior14",
-    "introduction": "DevOps Engineer Senior con amplia experiencia liderando proyectos y diseñando soluciones escalables.",
+    "name": "Ricardo Castro senior14b",
+    "introduction": "DevOps Engineer Senior con amplia experiencia liderando proyectos y disenando soluciones escalables.",
     "contactInformation": {
-      "email": "ricardo.castro.senior14@example.com",
+      "email": "ricardo.castro.senior14b@example.com",
       "phone": "+506 8888 2565",
-      "website": "github.com/ricardo.castro.senior14"
+      "website": "github.com/ricardo.castro.senior14b"
     },
     "workExperience": [
       {
@@ -512,14 +512,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "DevOps Engineer",
-        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }

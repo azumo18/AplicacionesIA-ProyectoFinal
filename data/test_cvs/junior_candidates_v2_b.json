@@ -1,11 +1,11 @@
 [
   {
-    "name": "Juan Pérez junior0",
-    "introduction": "AI Engineer Junior con interés en aprender y crecer en el área de ai engineer.",
+    "name": "Juan Perez junior0b",
+    "introduction": "AI Engineer Junior con interes en aprender y crecer en el area de ai engineer.",
     "contactInformation": {
-      "email": "juan.pérez.junior0@example.com",
+      "email": "juan.perez.junior0b@example.com",
       "phone": "+506 8888 5891",
-      "website": "github.com/juan.pérez.junior0"
+      "website": "github.com/juan.perez.junior0b"
     },
     "workExperience": [
       {
@@ -13,14 +13,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "AI Engineer",
-        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -35,12 +35,12 @@
     ]
   },
   {
-    "name": "María López junior1",
-    "introduction": "DevOps Engineer Junior con interés en aprender y crecer en el área de devops engineer.",
+    "name": "Maria Lopez junior1b",
+    "introduction": "DevOps Engineer Junior con interes en aprender y crecer en el area de devops engineer.",
     "contactInformation": {
-      "email": "maría.lópez.junior1@example.com",
+      "email": "maria.lopez.junior1b@example.com",
       "phone": "+506 8888 8744",
-      "website": "github.com/maría.lópez.junior1"
+      "website": "github.com/maria.lopez.junior1b"
     },
     "workExperience": [
       {
@@ -48,14 +48,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "DevOps Engineer",
-        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -70,12 +70,12 @@
     ]
   },
   {
-    "name": "Carlos Rodríguez junior2",
-    "introduction": "DevOps Engineer Junior con interés en aprender y crecer en el área de devops engineer.",
+    "name": "Carlos Rodriguez junior2b",
+    "introduction": "DevOps Engineer Junior con interes en aprender y crecer en el area de devops engineer.",
     "contactInformation": {
-      "email": "carlos.rodríguez.junior2@example.com",
+      "email": "carlos.rodriguez.junior2b@example.com",
       "phone": "+506 8888 6779",
-      "website": "github.com/carlos.rodríguez.junior2"
+      "website": "github.com/carlos.rodriguez.junior2b"
     },
     "workExperience": [
       {
@@ -83,14 +83,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "DevOps Engineer",
-        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -106,12 +106,12 @@
     ]
   },
   {
-    "name": "Ana Martínez junior3",
-    "introduction": "AI Engineer Junior con interés en aprender y crecer en el área de ai engineer.",
+    "name": "Ana Martinez junior3b",
+    "introduction": "AI Engineer Junior con interes en aprender y crecer en el area de ai engineer.",
     "contactInformation": {
-      "email": "ana.martínez.junior3@example.com",
+      "email": "ana.martinez.junior3b@example.com",
       "phone": "+506 8888 7555",
-      "website": "github.com/ana.martínez.junior3"
+      "website": "github.com/ana.martinez.junior3b"
     },
     "workExperience": [
       {
@@ -119,14 +119,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "AI Engineer",
-        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -142,12 +142,12 @@
     ]
   },
   {
-    "name": "Luis Fernández junior4",
-    "introduction": "DevOps Engineer Junior con interés en aprender y crecer en el área de devops engineer.",
+    "name": "Luis Fernandez junior4b",
+    "introduction": "DevOps Engineer Junior con interes en aprender y crecer en el area de devops engineer.",
     "contactInformation": {
-      "email": "luis.fernández.junior4@example.com",
+      "email": "luis.fernandez.junior4b@example.com",
       "phone": "+506 8888 4202",
-      "website": "github.com/luis.fernández.junior4"
+      "website": "github.com/luis.fernandez.junior4b"
     },
     "workExperience": [
       {
@@ -155,14 +155,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "DevOps Engineer",
-        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -177,12 +177,12 @@
     ]
   },
   {
-    "name": "Sofía Herrera junior5",
-    "introduction": "Frontend Developer Junior con interés en aprender y crecer en el área de frontend developer.",
+    "name": "Sofia Herrera junior5b",
+    "introduction": "Frontend Developer Junior con interes en aprender y crecer en el area de frontend developer.",
     "contactInformation": {
-      "email": "sofía.herrera.junior5@example.com",
+      "email": "sofia.herrera.junior5b@example.com",
       "phone": "+506 8888 3532",
-      "website": "github.com/sofía.herrera.junior5"
+      "website": "github.com/sofia.herrera.junior5b"
     },
     "workExperience": [
       {
@@ -190,14 +190,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "Frontend Developer",
-        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -212,12 +212,12 @@
     ]
   },
   {
-    "name": "Diego Morales junior6",
-    "introduction": "AI Engineer Junior con interés en aprender y crecer en el área de ai engineer.",
+    "name": "Diego Morales junior6b",
+    "introduction": "AI Engineer Junior con interes en aprender y crecer en el area de ai engineer.",
     "contactInformation": {
-      "email": "diego.morales.junior6@example.com",
+      "email": "diego.morales.junior6b@example.com",
       "phone": "+506 8888 6695",
-      "website": "github.com/diego.morales.junior6"
+      "website": "github.com/diego.morales.junior6b"
     },
     "workExperience": [
       {
@@ -225,14 +225,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "AI Engineer",
-        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -248,12 +248,12 @@
     ]
   },
   {
-    "name": "Valentina Rojas junior7",
-    "introduction": "DevOps Engineer Junior con interés en aprender y crecer en el área de devops engineer.",
+    "name": "Valentina Rojas junior7b",
+    "introduction": "DevOps Engineer Junior con interes en aprender y crecer en el area de devops engineer.",
     "contactInformation": {
-      "email": "valentina.rojas.junior7@example.com",
+      "email": "valentina.rojas.junior7b@example.com",
       "phone": "+506 8888 8368",
-      "website": "github.com/valentina.rojas.junior7"
+      "website": "github.com/valentina.rojas.junior7b"
     },
     "workExperience": [
       {
@@ -261,14 +261,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "DevOps Engineer",
-        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -283,12 +283,12 @@
     ]
   },
   {
-    "name": "Gabriel Castillo junior8",
-    "introduction": "AI Engineer Junior con interés en aprender y crecer en el área de ai engineer.",
+    "name": "Gabriel Castillo junior8b",
+    "introduction": "AI Engineer Junior con interes en aprender y crecer en el area de ai engineer.",
     "contactInformation": {
-      "email": "gabriel.castillo.junior8@example.com",
+      "email": "gabriel.castillo.junior8b@example.com",
       "phone": "+506 8888 1256",
-      "website": "github.com/gabriel.castillo.junior8"
+      "website": "github.com/gabriel.castillo.junior8b"
     },
     "workExperience": [
       {
@@ -296,14 +296,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "AI Engineer",
-        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -319,12 +319,12 @@
     ]
   },
   {
-    "name": "Daniela Vargas junior9",
-    "introduction": "Frontend Developer Junior con interés en aprender y crecer en el área de frontend developer.",
+    "name": "Daniela Vargas junior9b",
+    "introduction": "Frontend Developer Junior con interes en aprender y crecer en el area de frontend developer.",
     "contactInformation": {
-      "email": "daniela.vargas.junior9@example.com",
+      "email": "daniela.vargas.junior9b@example.com",
       "phone": "+506 8888 7562",
-      "website": "github.com/daniela.vargas.junior9"
+      "website": "github.com/daniela.vargas.junior9b"
     },
     "workExperience": [
       {
@@ -332,14 +332,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "Frontend Developer",
-        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -354,12 +354,12 @@
     ]
   },
   {
-    "name": "José Ramírez junior10",
-    "introduction": "DevOps Engineer Junior con interés en aprender y crecer en el área de devops engineer.",
+    "name": "Jose Ramirez junior10b",
+    "introduction": "DevOps Engineer Junior con interes en aprender y crecer en el area de devops engineer.",
     "contactInformation": {
-      "email": "josé.ramírez.junior10@example.com",
+      "email": "jose.ramirez.junior10b@example.com",
       "phone": "+506 8888 4810",
-      "website": "github.com/josé.ramírez.junior10"
+      "website": "github.com/jose.ramirez.junior10b"
     },
     "workExperience": [
       {
@@ -367,14 +367,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "DevOps Engineer",
-        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -389,12 +389,12 @@
     ]
   },
   {
-    "name": "Camila Torres junior11",
-    "introduction": "Frontend Developer Junior con interés en aprender y crecer en el área de frontend developer.",
+    "name": "Camila Torres junior11b",
+    "introduction": "Frontend Developer Junior con interes en aprender y crecer en el area de frontend developer.",
     "contactInformation": {
-      "email": "camila.torres.junior11@example.com",
+      "email": "camila.torres.junior11b@example.com",
       "phone": "+506 8888 8754",
-      "website": "github.com/camila.torres.junior11"
+      "website": "github.com/camila.torres.junior11b"
     },
     "workExperience": [
       {
@@ -402,14 +402,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "Frontend Developer",
-        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -424,12 +424,12 @@
     ]
   },
   {
-    "name": "Andrés Gómez junior12",
-    "introduction": "Backend Developer Junior con interés en aprender y crecer en el área de backend developer.",
+    "name": "Andres Gomez junior12b",
+    "introduction": "Backend Developer Junior con interes en aprender y crecer en el area de backend developer.",
     "contactInformation": {
-      "email": "andrés.gómez.junior12@example.com",
+      "email": "andres.gomez.junior12b@example.com",
       "phone": "+506 8888 5553",
-      "website": "github.com/andrés.gómez.junior12"
+      "website": "github.com/andres.gomez.junior12b"
     },
     "workExperience": [
       {
@@ -437,14 +437,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "Backend Developer",
-        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -460,12 +460,12 @@
     ]
   },
   {
-    "name": "Paula Sánchez junior13",
-    "introduction": "DevOps Engineer Junior con interés en aprender y crecer en el área de devops engineer.",
+    "name": "Paula Sanchez junior13b",
+    "introduction": "DevOps Engineer Junior con interes en aprender y crecer en el area de devops engineer.",
     "contactInformation": {
-      "email": "paula.sánchez.junior13@example.com",
+      "email": "paula.sanchez.junior13b@example.com",
       "phone": "+506 8888 8123",
-      "website": "github.com/paula.sánchez.junior13"
+      "website": "github.com/paula.sanchez.junior13b"
     },
     "workExperience": [
       {
@@ -473,14 +473,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "DevOps Engineer",
-        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -495,12 +495,12 @@
     ]
   },
   {
-    "name": "Ricardo Castro junior14",
-    "introduction": "Frontend Developer Junior con interés en aprender y crecer en el área de frontend developer.",
+    "name": "Ricardo Castro junior14b",
+    "introduction": "Frontend Developer Junior con interes en aprender y crecer en el area de frontend developer.",
     "contactInformation": {
-      "email": "ricardo.castro.junior14@example.com",
+      "email": "ricardo.castro.junior14b@example.com",
       "phone": "+506 8888 9500",
-      "website": "github.com/ricardo.castro.junior14"
+      "website": "github.com/ricardo.castro.junior14b"
     },
     "workExperience": [
       {
@@ -508,14 +508,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "Frontend Developer",
-        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }

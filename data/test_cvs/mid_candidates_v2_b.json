@@ -1,11 +1,11 @@
 [
   {
-    "name": "Juan Pérez mid0",
-    "introduction": "Backend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "name": "Juan Perez mid0b",
+    "introduction": "Backend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas practicas.",
     "contactInformation": {
-      "email": "juan.pérez.mid0@example.com",
+      "email": "juan.perez.mid0b@example.com",
       "phone": "+506 8888 5904",
-      "website": "github.com/juan.pérez.mid0"
+      "website": "github.com/juan.perez.mid0b"
     },
     "workExperience": [
       {
@@ -13,14 +13,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "Backend Developer",
-        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -36,12 +36,12 @@
     ]
   },
   {
-    "name": "María López mid1",
-    "introduction": "Backend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "name": "Maria Lopez mid1b",
+    "introduction": "Backend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas practicas.",
     "contactInformation": {
-      "email": "maría.lópez.mid1@example.com",
+      "email": "maria.lopez.mid1b@example.com",
       "phone": "+506 8888 1449",
-      "website": "github.com/maría.lópez.mid1"
+      "website": "github.com/maria.lopez.mid1b"
     },
     "workExperience": [
       {
@@ -49,14 +49,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "Backend Developer",
-        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -72,12 +72,12 @@
     ]
   },
   {
-    "name": "Carlos Rodríguez mid2",
-    "introduction": "AI Engineer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "name": "Carlos Rodriguez mid2b",
+    "introduction": "AI Engineer Mid-Level con experiencia en desarrollo de soluciones reales y buenas practicas.",
     "contactInformation": {
-      "email": "carlos.rodríguez.mid2@example.com",
+      "email": "carlos.rodriguez.mid2b@example.com",
       "phone": "+506 8888 2285",
-      "website": "github.com/carlos.rodríguez.mid2"
+      "website": "github.com/carlos.rodriguez.mid2b"
     },
     "workExperience": [
       {
@@ -85,14 +85,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "AI Engineer",
-        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -108,12 +108,12 @@
     ]
   },
   {
-    "name": "Ana Martínez mid3",
-    "introduction": "Frontend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "name": "Ana Martinez mid3b",
+    "introduction": "Frontend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas practicas.",
     "contactInformation": {
-      "email": "ana.martínez.mid3@example.com",
+      "email": "ana.martinez.mid3b@example.com",
       "phone": "+506 8888 7215",
-      "website": "github.com/ana.martínez.mid3"
+      "website": "github.com/ana.martinez.mid3b"
     },
     "workExperience": [
       {
@@ -121,14 +121,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "Frontend Developer",
-        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -143,12 +143,12 @@
     ]
   },
   {
-    "name": "Luis Fernández mid4",
-    "introduction": "DevOps Engineer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "name": "Luis Fernandez mid4b",
+    "introduction": "DevOps Engineer Mid-Level con experiencia en desarrollo de soluciones reales y buenas practicas.",
     "contactInformation": {
-      "email": "luis.fernández.mid4@example.com",
+      "email": "luis.fernandez.mid4b@example.com",
       "phone": "+506 8888 1904",
-      "website": "github.com/luis.fernández.mid4"
+      "website": "github.com/luis.fernandez.mid4b"
     },
     "workExperience": [
       {
@@ -156,14 +156,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "DevOps Engineer",
-        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -178,12 +178,12 @@
     ]
   },
   {
-    "name": "Sofía Herrera mid5",
-    "introduction": "AI Engineer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "name": "Sofia Herrera mid5b",
+    "introduction": "AI Engineer Mid-Level con experiencia en desarrollo de soluciones reales y buenas practicas.",
     "contactInformation": {
-      "email": "sofía.herrera.mid5@example.com",
+      "email": "sofia.herrera.mid5b@example.com",
       "phone": "+506 8888 8873",
-      "website": "github.com/sofía.herrera.mid5"
+      "website": "github.com/sofia.herrera.mid5b"
     },
     "workExperience": [
       {
@@ -191,14 +191,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "AI Engineer",
-        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -214,12 +214,12 @@
     ]
   },
   {
-    "name": "Diego Morales mid6",
-    "introduction": "AI Engineer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "name": "Diego Morales mid6b",
+    "introduction": "AI Engineer Mid-Level con experiencia en desarrollo de soluciones reales y buenas practicas.",
     "contactInformation": {
-      "email": "diego.morales.mid6@example.com",
+      "email": "diego.morales.mid6b@example.com",
       "phone": "+506 8888 2411",
-      "website": "github.com/diego.morales.mid6"
+      "website": "github.com/diego.morales.mid6b"
     },
     "workExperience": [
       {
@@ -227,14 +227,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "AI Engineer",
-        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -250,12 +250,12 @@
     ]
   },
   {
-    "name": "Valentina Rojas mid7",
-    "introduction": "DevOps Engineer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "name": "Valentina Rojas mid7b",
+    "introduction": "DevOps Engineer Mid-Level con experiencia en desarrollo de soluciones reales y buenas practicas.",
     "contactInformation": {
-      "email": "valentina.rojas.mid7@example.com",
+      "email": "valentina.rojas.mid7b@example.com",
       "phone": "+506 8888 4703",
-      "website": "github.com/valentina.rojas.mid7"
+      "website": "github.com/valentina.rojas.mid7b"
     },
     "workExperience": [
       {
@@ -263,14 +263,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "DevOps Engineer",
-        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con devops engineer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -285,12 +285,12 @@
     ]
   },
   {
-    "name": "Gabriel Castillo mid8",
-    "introduction": "Backend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "name": "Gabriel Castillo mid8b",
+    "introduction": "Backend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas practicas.",
     "contactInformation": {
-      "email": "gabriel.castillo.mid8@example.com",
+      "email": "gabriel.castillo.mid8b@example.com",
       "phone": "+506 8888 6484",
-      "website": "github.com/gabriel.castillo.mid8"
+      "website": "github.com/gabriel.castillo.mid8b"
     },
     "workExperience": [
       {
@@ -298,14 +298,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "Backend Developer",
-        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -320,12 +320,12 @@
     ]
   },
   {
-    "name": "Daniela Vargas mid9",
-    "introduction": "Backend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "name": "Daniela Vargas mid9b",
+    "introduction": "Backend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas practicas.",
     "contactInformation": {
-      "email": "daniela.vargas.mid9@example.com",
+      "email": "daniela.vargas.mid9b@example.com",
       "phone": "+506 8888 1550",
-      "website": "github.com/daniela.vargas.mid9"
+      "website": "github.com/daniela.vargas.mid9b"
     },
     "workExperience": [
       {
@@ -333,14 +333,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "Backend Developer",
-        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -356,12 +356,12 @@
     ]
   },
   {
-    "name": "José Ramírez mid10",
-    "introduction": "Frontend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "name": "Jose Ramirez mid10b",
+    "introduction": "Frontend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas practicas.",
     "contactInformation": {
-      "email": "josé.ramírez.mid10@example.com",
+      "email": "jose.ramirez.mid10b@example.com",
       "phone": "+506 8888 4412",
-      "website": "github.com/josé.ramírez.mid10"
+      "website": "github.com/jose.ramirez.mid10b"
     },
     "workExperience": [
       {
@@ -369,14 +369,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "Frontend Developer",
-        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -391,12 +391,12 @@
     ]
   },
   {
-    "name": "Camila Torres mid11",
-    "introduction": "AI Engineer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "name": "Camila Torres mid11b",
+    "introduction": "AI Engineer Mid-Level con experiencia en desarrollo de soluciones reales y buenas practicas.",
     "contactInformation": {
-      "email": "camila.torres.mid11@example.com",
+      "email": "camila.torres.mid11b@example.com",
       "phone": "+506 8888 1851",
-      "website": "github.com/camila.torres.mid11"
+      "website": "github.com/camila.torres.mid11b"
     },
     "workExperience": [
       {
@@ -404,14 +404,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "AI Engineer",
-        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con ai engineer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -427,12 +427,12 @@
     ]
   },
   {
-    "name": "Andrés Gómez mid12",
-    "introduction": "Backend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "name": "Andres Gomez mid12b",
+    "introduction": "Backend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas practicas.",
     "contactInformation": {
-      "email": "andrés.gómez.mid12@example.com",
+      "email": "andres.gomez.mid12b@example.com",
       "phone": "+506 8888 5968",
-      "website": "github.com/andrés.gómez.mid12"
+      "website": "github.com/andres.gomez.mid12b"
     },
     "workExperience": [
       {
@@ -440,14 +440,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "Backend Developer",
-        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con backend developer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -463,12 +463,12 @@
     ]
   },
   {
-    "name": "Paula Sánchez mid13",
-    "introduction": "Frontend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "name": "Paula Sanchez mid13b",
+    "introduction": "Frontend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas practicas.",
     "contactInformation": {
-      "email": "paula.sánchez.mid13@example.com",
+      "email": "paula.sanchez.mid13b@example.com",
       "phone": "+506 8888 8011",
-      "website": "github.com/paula.sánchez.mid13"
+      "website": "github.com/paula.sanchez.mid13b"
     },
     "workExperience": [
       {
@@ -476,14 +476,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "Frontend Developer",
-        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -498,12 +498,12 @@
     ]
   },
   {
-    "name": "Ricardo Castro mid14",
-    "introduction": "Frontend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas prácticas.",
+    "name": "Ricardo Castro mid14b",
+    "introduction": "Frontend Developer Mid-Level con experiencia en desarrollo de soluciones reales y buenas practicas.",
     "contactInformation": {
-      "email": "ricardo.castro.mid14@example.com",
+      "email": "ricardo.castro.mid14b@example.com",
       "phone": "+506 8888 1968",
-      "website": "github.com/ricardo.castro.mid14"
+      "website": "github.com/ricardo.castro.mid14b"
     },
     "workExperience": [
       {
@@ -511,14 +511,14 @@
         "startDate": "2022-01",
         "endDate": "Present",
         "position": "Frontend Developer",
-        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologías modernas."
+        "description": "Trabajo en proyectos relacionados con frontend developer utilizando tecnologias modernas."
       }
     ],
     "education": [
       {
         "institution": "Universidad de Costa Rica",
         "degree": "Bachillerato",
-        "title": "Ingeniería en Sistemas",
+        "title": "Ingenieria en Sistemas",
         "startDate": "2018",
         "endDate": "2022"
       }
