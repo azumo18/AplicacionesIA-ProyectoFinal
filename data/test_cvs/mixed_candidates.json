@@ -153,7 +153,7 @@
         "startDate": "2015-05",
         "endDate": "Present",
         "position": "Lead Systems Engineer",
-        "description": "Diseño de sistemas embebidos, IoT y optimizacion de latencia en procesamiento de datos."
+        "description": "Diseno de sistemas embebidos, IoT y optimizacion de latencia en procesamiento de datos."
       }
     ],
     "education": [
@@ -197,7 +197,7 @@
   },
   {
     "name": "Javier Solis",
-    "introduction": "Desarrollador Frontend enfocado en interfaces interactivas y experiencia de usuario. Creador de componentes reutilizables y sistemas de diseño.",
+    "introduction": "Desarrollador Frontend enfocado en interfaces interactivas y experiencia de usuario. Creador de componentes reutilizables y sistemas de diseno.",
     "contactInformation": {
       "email": "javier.ui@example.com",
       "phone": "+506 8888 8888",
@@ -216,7 +216,7 @@
       {
         "institution": "Universidad Latina",
         "degree": "Bachillerato",
-        "title": "Diseño y Desarrollo Web",
+        "title": "Diseno y Desarrollo Web",
         "startDate": "2018",
         "endDate": "2022"
       }
@@ -225,7 +225,7 @@
   },
   {
     "name": "Monica Alvarado",
-    "introduction": "Arquitecta de Software / Cloud Architect. Experiencia en diseño de soluciones empresariales utilizando metodologias de Domain-Driven Design.",
+    "introduction": "Arquitecta de Software / Cloud Architect. Experiencia en diseno de soluciones empresariales utilizando metodologias de Domain-Driven Design.",
     "contactInformation": {
       "email": "malvarado.arch@example.com",
       "phone": "+506 8888 9999",

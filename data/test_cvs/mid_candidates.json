@@ -1,7 +1,7 @@
 [
   {
-    "name": "Marcos Ureña",
-    "introduction": "Desarrollador Frontend Mid-Level con 4 años de experiencia. Apasionado por la creacion de paneles administrativos complejos y el manejo eficiente del estado en el cliente utilizando arquitecturas modernas.",
+    "name": "Marcos Urena",
+    "introduction": "Desarrollador Frontend Mid-Level con 4 anos de experiencia. Apasionado por la creacion de paneles administrativos complejos y el manejo eficiente del estado en el cliente utilizando arquitecturas modernas.",
     "contactInformation": {
       "email": "murena.front@example.com",
       "phone": "+506 8888 1234",
@@ -48,7 +48,7 @@
         "startDate": "2021-08",
         "endDate": "Present",
         "position": "Fullstack Developer",
-        "description": "Diseño e implementacion de una aplicacion para centros de acondicionamiento fisico. Desarrollo de sistemas de login con control de roles, seguimiento de historial y gestion de mediciones fisicas usando Express y PostgreSQL."
+        "description": "Diseno e implementacion de una aplicacion para centros de acondicionamiento fisico. Desarrollo de sistemas de login con control de roles, seguimiento de historial y gestion de mediciones fisicas usando Express y PostgreSQL."
       }
     ],
     "education": [
@@ -64,7 +64,7 @@
   },
   {
     "name": "Esteban Quiros",
-    "introduction": "Data Engineer / ML Developer con 3.5 años de experiencia. Especializado en el analisis de datos estructurados para la deteccion de anomalias y la integracion de modulos de inteligencia artificial en aplicaciones tradicionales.",
+    "introduction": "Data Engineer / ML Developer con 3.5 anos de experiencia. Especializado en el analisis de datos estructurados para la deteccion de anomalias y la integracion de modulos de inteligencia artificial en aplicaciones tradicionales.",
     "contactInformation": {
       "email": "equiros.data@example.com",
       "phone": "+506 8888 3456",
@@ -111,7 +111,7 @@
         "startDate": "2021-06",
         "endDate": "Present",
         "position": "QA Automation Engineer",
-        "description": "Implementacion de estrategias de testing para sistemas universitarios. Diseño de pruebas de caja negra, de caja blanca y analisis FMEA, integrando scripts de automatizacion en los pipelines de CI/CD."
+        "description": "Implementacion de estrategias de testing para sistemas universitarios. Diseno de pruebas de caja negra, de caja blanca y analisis FMEA, integrando scripts de automatizacion en los pipelines de CI/CD."
       }
     ],
     "education": [
@@ -127,7 +127,7 @@
   },
   {
     "name": "Jorge Chaves",
-    "introduction": "Backend Developer Mid-Level con 4.5 años de experiencia. Fuerte inclinacion hacia la logica de programacion compleja, el diseño de agentes autonomos y sistemas de emparejamiento de datos.",
+    "introduction": "Backend Developer Mid-Level con 4.5 anos de experiencia. Fuerte inclinacion hacia la logica de programacion compleja, el diseno de agentes autonomos y sistemas de emparejamiento de datos.",
     "contactInformation": {
       "email": "jchaves.backend@example.com",
       "phone": "+506 8888 5678",
@@ -139,7 +139,7 @@
         "startDate": "2021-09",
         "endDate": "Present",
         "position": "Backend Developer",
-        "description": "Diseño de la logica central para sistemas de seguimiento de candidatos (ATS). Desarrollo de motores de negociacion basados en reglas y optimizacion de consultas en bases de datos relacionales."
+        "description": "Diseno de la logica central para sistemas de seguimiento de candidatos (ATS). Desarrollo de motores de negociacion basados en reglas y optimizacion de consultas en bases de datos relacionales."
       },
       {
         "company": "StartUp CR",
