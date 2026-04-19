@@ -1,3 +1,4 @@
 {
-  "cvsFolder": "data/candidate_cvs"
+  "cvsFolder": "data/candidate_cvs",
+  "ollamaModel": "qwen3:8b"
 }

@@ -192,24 +192,33 @@ const submit = async () => {
         return;
     }
 
-    let dynamicRules = selectedITCategories.tabs.map(tab => tab.categories.map(category => category.elements.map(element => `required_skill(${element.name}).`).join('\n')).join('\n')).join('\n');
-    dynamicRules += candidateFacts;
+    const btn = document.querySelector('#submitButton');
+    btn.disabled = true;
+    btn.innerHTML = '<span class="spinner-border spinner-border-sm"></span> Loading…';
 
-    const query = `top_applicants_breakdown(3, TopList).`;
+    try {
+        let dynamicRules = selectedITCategories.tabs.map(tab => tab.categories.map(category => category.elements.map(element => `required_skill(${element.name}).`).join('\n')).join('\n')).join('\n');
+        dynamicRules += candidateFacts;
 
-    const body = {
-        dynamicRules,
-        query
-    };
+        const query = `top_applicants_breakdown(3, TopList).`;
 
-    const response = await fetch('/query', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(body)
-    });
+        const body = {
+            dynamicRules,
+            query
+        };
 
-    const data = await response.json();
+        const response = await fetch('/query', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(body)
+        });
 
-    document.querySelector('#resultsContainer').value = data.results.join('\n');
-    document.querySelector('.modalContainer').style.visibility = 'visible';
+        const data = await response.json();
+
+        document.querySelector('#resultsContainer').value = data.naturalLanguageResponse ?? data.results.join('\n');
+        document.querySelector('.modalContainer').style.visibility = 'visible';
+    } finally {
+        btn.disabled = false;
+        btn.innerHTML = 'Submit';
+    }
 };
